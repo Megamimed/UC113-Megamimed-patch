@@ -3592,7 +3592,7 @@
 	</Filter>
 	<Filter name="FlakVest">
 		<OR>
-			<VESTPOS op="in">161, 162, 163</VESTPOS>
+			<VESTPOS op="in">161, 162, 163, 862</VESTPOS>
 		</OR>
 	</Filter>
 	<Filter name="FlakVestAndPistolLeft">
