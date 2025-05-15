@@ -7,13 +7,14 @@ Hopefully this way if something breaks you have at least some idea where to look
 
 I have not included profile data so you'll need to adjust your options when you start up, LOBOTs is disabled by default I think to remember to activate it in the option menu.
 
---------------------------------------------------------------------------
 Versions and stuff - Going by the ZIP file names in my downloads folder:
+--------------------------------------------------------------------------
 
 1.13 Version used -JA2_113-v2-G3519Ld827-English
+
 UC-1.13 Version - Urban Chaos-1.13 Full Experimental 12 v4.6x 20190510
+
 UC - Urban_Chaos (the original installer, not very descriptive I know)
---------------------------------------------------------------------------
 
 Changes made to STI (haha) Files:
 --------------------------------------------------------------------------
@@ -30,9 +31,6 @@ NOTE RE Data-Graphics:
 If you have a Data-graphics folder from AFS or something then either update the bigitems, interface and tilesets found there with my versions (May break AFS/DL, not tested it) or move the old versions into their own mod folders and then remove the three files from the Data-Graphics folder entirely.
 
 whether this screws anything up remains to be seen (BY YOU!)
-
---------------------------------------------------------------------------
-
 
 TABLEDATA:
 --------------------------------------------------------------------------
@@ -54,9 +52,6 @@ ARMOURs:
 Appended new entries from 1.13 because the game kept crashing when I opened a bobby rays box and I thought this might fix it (it stopped crashing after I did this so maybe?)
 
 Don't think I touched anything else
-
---------------------------------------------------------------------------
-
 
 SETTINGS:
 --------------------------------------------------------------------------
