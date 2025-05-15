@@ -3534,7 +3534,7 @@
 	</Filter>
 	<Filter name="KevlarVest">
 		<OR>
-			<VESTPOS op="in">164, 165, 166, 842, 843, 844, 847, 848, 849, 856, 857, 858, 865, 866, 867, 1103, 1104, 1105, 1108, 1109, 1110, 1117, 1118, 1119, 1126, 1127, 1128, 1138, 1139, 1140, 1143, 1144, 1145, 1152, 1153, 1154, 1161, 1162, 1163</VESTPOS>
+			<VESTPOS op="in">164, 165, 166, 829, 842, 843, 844, 847, 848, 849, 856, 857, 858, 865, 866, 867, 1103, 1104, 1105, 1108, 1109, 1110, 1117, 1118, 1119, 1126, 1127, 1128, 1138, 1139, 1140, 1143, 1144, 1145, 1152, 1153, 1154, 1161, 1162, 1163</VESTPOS>
 		</OR>
 	</Filter>
 	<Filter name="KevlarVestAndPistolLeft">
@@ -3563,7 +3563,7 @@
 	</Filter>
 	<Filter name="SpectraVest">
 		<OR>
-			<VESTPOS op="in">167, 168, 169, 818, 830, 850, 851, 859, 860, 868, 869, 1111, 1112, 1120, 1121, 1129, 1130, 1146, 1147, 1155, 1156, 1164, 1165</VESTPOS>
+			<VESTPOS op="in">167, 168, 169, 818, 830, 838, 850, 851, 859, 860, 868, 869, 1111, 1112, 1120, 1121, 1129, 1130, 1146, 1147, 1155, 1156, 1164, 1165</VESTPOS>
 		</OR>
 	</Filter>
 	<Filter name="SpectraVestAndPistolLeft">
@@ -3621,7 +3621,7 @@
 	</Filter>
 	<Filter name="GuardianVest">
 		<OR>
-			<VESTPOS op="in">196, 197, 198</VESTPOS>
+			<VESTPOS op="in">196, 197, 198, 844</VESTPOS>
 		</OR>
 	</Filter>
 	<Filter name="GuardianVestAndPistolLeft">
@@ -3708,7 +3708,7 @@
 	</Filter>
 	<Filter name="TwaronVest">
 		<OR>
-			<VESTPOS op="in">812, 824, 836</VESTPOS>
+			<VESTPOS op="in">812, 824, 832, 836</VESTPOS>
 		</OR>
 	</Filter>
 	<Filter name="TwaronVestAndPistolLeft">
@@ -3737,7 +3737,7 @@
 	</Filter>
 	<Filter name="DyneemaVest">
 		<OR>
-			<VESTPOS op="in">803, 815, 827</VESTPOS>
+			<VESTPOS op="in">803, 815, 827, 841</VESTPOS>
 		</OR>
 	</Filter>
 	<Filter name="DyneemaVestAndPistolLeft">
