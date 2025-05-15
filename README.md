@@ -1,5 +1,5 @@
 15/05/2025
-Hello, Just wanted to let you know which versions of things I used to get here I what I can remember editing (It was a lot of trial and error and I have ADHD so I probably forgot stuff)
+Hello, Just wanted to let you know which versions of things I used to get here and what I can remember editing (It was a lot of trial and error and I have ADHD so I probably forgot stuff)
 
 I didn't do this with the expectation of sharing it so there may be things leftover from me just playing the game.
 
