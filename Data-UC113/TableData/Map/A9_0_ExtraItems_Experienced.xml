@@ -1,0 +1,36 @@
+<!-- This is just an empty template for the addition extra sector items -->
+<!-- See "Docs\Extra Sector Items.txt" for additional informations      -->
+<!--
+<ExtraItems>
+   <Item>
+      <uiIndex>201</uiIndex>
+      <quantity>1</quantity>
+      <condition>80</condition>
+      <gridno>6479</gridno>
+      <visible>1</visible>
+   </Item>
+   <Item>
+      <uiIndex>15</uiIndex>
+      <quantity>1</quantity>
+      <condition>80</condition>
+      <gridno>6479</gridno>
+      <visible>1</visible>
+   </Item>
+</ExtraItems>
+-->
+<ExtraItems>
+   <Item>		<!-- PM-63 RAK -->
+      <uiIndex>4813</uiIndex>
+      <quantity>1</quantity>
+      <condition>85</condition>
+      <gridno>9652</gridno>
+      <visible>1</visible>
+   </Item>
+   <Item>		<!-- 9x18mm SMG, 20 HP -->		
+      <uiIndex>6507</uiIndex>
+      <quantity>2</quantity>
+      <condition>100</condition>
+      <gridno>9652</gridno>
+      <visible>1</visible>
+   </Item>
+</ExtraItems>

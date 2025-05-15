@@ -1,0 +1,2348 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SECTOR_NAMES xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SECTOR>
+		<SectorGrid>A1</SectorGrid>
+		<szUnexploredName>Sheraton</szUnexploredName>
+		<szDetailedUnexploredName>Sheraton</szDetailedUnexploredName>
+		<szExploredName>Sheraton</szExploredName>
+		<szDetailedExploredName>Sheraton</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>A2</SectorGrid>
+		<szUnexploredName>Sheraton</szUnexploredName>
+		<szDetailedUnexploredName>Sheraton</szDetailedUnexploredName>
+		<szExploredName>Sheraton</szExploredName>
+		<szDetailedExploredName>Sheraton</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>A3</SectorGrid>
+		<szUnexploredName>Hills</szUnexploredName>
+		<szDetailedUnexploredName>Hills</szDetailedUnexploredName>
+		<szExploredName>Hills</szExploredName>
+		<szDetailedExploredName>Hills</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>A4</SectorGrid>
+		<szUnexploredName>Unknown</szUnexploredName>
+		<szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+		<szExploredName>Unknown</szExploredName>
+		<szDetailedExploredName>Unknown</szDetailedExploredName>
+		<sWaterType>0</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>A5</SectorGrid>
+		<szUnexploredName>Unknown</szUnexploredName>
+		<szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+		<szExploredName>Unknown</szExploredName>
+		<szDetailedExploredName>Unknown</szDetailedExploredName>
+		<sWaterType>0</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>A6</SectorGrid>
+		<szUnexploredName>Woods</szUnexploredName>
+		<szDetailedUnexploredName>Woods</szDetailedUnexploredName>
+		<szExploredName>Woods</szExploredName>
+		<szDetailedExploredName>Woods</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>A7</SectorGrid>
+		<szUnexploredName>Woods</szUnexploredName>
+		<szDetailedUnexploredName>Woods</szDetailedUnexploredName>
+		<szExploredName>Woods</szExploredName>
+		<szDetailedExploredName>Woods</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>A8</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>A9</SectorGrid>
+		<szUnexploredName>Atremo Airport</szUnexploredName>
+		<szDetailedUnexploredName>Atremo Airport</szDetailedUnexploredName>
+		<szExploredName>Atremo Airport</szExploredName>
+		<szDetailedExploredName>Atremo Airport</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>A10</SectorGrid>
+		<szUnexploredName>Atremo</szUnexploredName>
+		<szDetailedUnexploredName>Atremo</szDetailedUnexploredName>
+		<szExploredName>Atremo</szExploredName>
+		<szDetailedExploredName>Atremo, East UBT Station</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+		<usPrisonRoomNumber00>30</usPrisonRoomNumber00>
+		<usPrisonRoomNumber01>31</usPrisonRoomNumber01>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>A11</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>A12</SectorGrid>
+		<szUnexploredName>River</szUnexploredName>
+		<szDetailedUnexploredName>River</szDetailedUnexploredName>
+		<szExploredName>River</szExploredName>
+		<szDetailedExploredName>River</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>A13</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>A14</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>A15</SectorGrid>
+		<szUnexploredName>Woods</szUnexploredName>
+		<szDetailedUnexploredName>Woods</szDetailedUnexploredName>
+		<szExploredName>Woods</szExploredName>
+		<szDetailedExploredName>Woods</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>A16</SectorGrid>
+		<szUnexploredName>Unknown</szUnexploredName>
+		<szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+		<szExploredName>Unknown</szExploredName>
+		<szDetailedExploredName>Unknown</szDetailedExploredName>
+		<sWaterType>0</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>B1</SectorGrid>
+		<szUnexploredName>Sheraton</szUnexploredName>
+		<szDetailedUnexploredName>Sheraton</szDetailedUnexploredName>
+		<szExploredName>Sheraton</szExploredName>
+		<szDetailedExploredName>Sheraton</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>B2</SectorGrid>
+		<szUnexploredName>Sheraton Factory</szUnexploredName>
+		<szDetailedUnexploredName>Sheraton Factory</szDetailedUnexploredName>
+		<szExploredName>Sheraton Factory</szExploredName>
+		<szDetailedExploredName>Sheraton Factory</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+		<usPrisonRoomNumber00>82</usPrisonRoomNumber00>
+		<usPrisonRoomNumber01>83</usPrisonRoomNumber01>
+		<usPrisonRoomNumber02>84</usPrisonRoomNumber02>
+		<usPrisonRoomNumber03>85</usPrisonRoomNumber03>
+		<usPrisonRoomNumber04>86</usPrisonRoomNumber04>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>B3</SectorGrid>
+		<szUnexploredName>Woods</szUnexploredName>
+		<szDetailedUnexploredName>Woods, Utility Road</szDetailedUnexploredName>
+		<szExploredName>Woods</szExploredName>
+		<szDetailedExploredName>Woods, Utility Road</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>B4</SectorGrid>
+		<szUnexploredName>River</szUnexploredName>
+		<szDetailedUnexploredName>River</szDetailedUnexploredName>
+		<szExploredName>Hydro Dam</szExploredName>
+		<szDetailedExploredName>Hydro Dam</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>B5</SectorGrid>
+		<szUnexploredName>Woods</szUnexploredName>
+		<szDetailedUnexploredName>Woods</szDetailedUnexploredName>
+		<szExploredName>Woods</szExploredName>
+		<szDetailedExploredName>Woods</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>B6</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>B7</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>B8</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>B9</SectorGrid>
+		<szUnexploredName>Atremo</szUnexploredName>
+		<szDetailedUnexploredName>Atremo</szDetailedUnexploredName>
+		<szExploredName>Atremo</szExploredName>
+		<szDetailedExploredName>Atremo</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>B10</SectorGrid>
+		<szUnexploredName>Atremo</szUnexploredName>
+		<szDetailedUnexploredName>Atremo</szDetailedUnexploredName>
+		<szExploredName>Atremo, Bar</szExploredName>
+		<szDetailedExploredName>Atremo, Bar</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>B11</SectorGrid>
+		<szUnexploredName>Road, River Crossing</szUnexploredName>
+		<szDetailedUnexploredName>Road, River Crossing</szDetailedUnexploredName>
+		<szExploredName>Road, River Crossing</szExploredName>
+		<szDetailedExploredName>Road, River Crossing</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>B12</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road, Suburbs</szExploredName>
+		<szDetailedExploredName>Road, Suburbs</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>B13</SectorGrid>
+		<szUnexploredName>Calisto Airport</szUnexploredName>
+		<szDetailedUnexploredName>Calisto Airport</szDetailedUnexploredName>
+		<szExploredName>Calisto Airport</szExploredName>
+		<szDetailedExploredName>Calisto Airport</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>225</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>B14</SectorGrid>
+		<szUnexploredName>Calisto Cargo Handling</szUnexploredName>
+		<szDetailedUnexploredName>Calisto Cargo Handling</szDetailedUnexploredName>
+		<szExploredName>Calisto Cargo Handling</szExploredName>
+		<szDetailedExploredName>Calisto, Gun Runners</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>225</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>B15</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>B16</SectorGrid>
+		<szUnexploredName>Gas Station</szUnexploredName>
+		<szDetailedUnexploredName>Gas Station</szDetailedUnexploredName>
+		<szExploredName>Gas Station</szExploredName>
+		<szDetailedExploredName>Gas Station, Gun Runners</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>C1</SectorGrid>
+		<szUnexploredName>Dense Forest</szUnexploredName>
+		<szDetailedUnexploredName>Dense Forest</szDetailedUnexploredName>
+		<szExploredName>Dense Forest</szExploredName>
+		<szDetailedExploredName>Dense Forest</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>350</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>C2</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road, Village</szExploredName>
+		<szDetailedExploredName>Road, Village</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>C3</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road, Gas Station</szExploredName>
+		<szDetailedExploredName>Road, Gas Station</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>C4</SectorGrid>
+		<szUnexploredName>Port Kip</szUnexploredName>
+		<szDetailedUnexploredName>Port Kip</szDetailedUnexploredName>
+		<szExploredName>Port Kip, Bobby Rays</szExploredName>
+		<szDetailedExploredName>Port Kip, Bobby Rays</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>C5</SectorGrid>
+		<szUnexploredName>Port Kip</szUnexploredName>
+		<szDetailedUnexploredName>Port Kip</szDetailedUnexploredName>
+		<szExploredName>Port Kip, Docks</szExploredName>
+		<szDetailedExploredName>Port Kip, Docks</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>C6</SectorGrid>
+		<szUnexploredName>Port Kip</szUnexploredName>
+		<szDetailedUnexploredName>Port Kip</szDetailedUnexploredName>
+		<szExploredName>Port Kip</szExploredName>
+		<szDetailedExploredName>Port Kip</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>C7</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road, Farmland</szExploredName>
+		<szDetailedExploredName>Road, Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>C8</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road, Farmland</szExploredName>
+		<szDetailedExploredName>Road, Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>C9</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road, Substation</szExploredName>
+		<szDetailedExploredName>Road, Substation</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>C10</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>C11</SectorGrid>
+		<szUnexploredName>River</szUnexploredName>
+		<szDetailedUnexploredName>River</szDetailedUnexploredName>
+		<szExploredName>River, Docks</szExploredName>
+		<szDetailedExploredName>River, Docks</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>C12</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>C13</SectorGrid>
+		<szUnexploredName>Calisto</szUnexploredName>
+		<szDetailedUnexploredName>Calisto</szDetailedUnexploredName>
+		<szExploredName>Calisto, UBT Station</szExploredName>
+		<szDetailedExploredName>Calisto, UBT Station</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>225</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>C14</SectorGrid>
+		<szUnexploredName>Calisto</szUnexploredName>
+		<szDetailedUnexploredName>Calisto</szDetailedUnexploredName>
+		<szExploredName>Calisto</szExploredName>
+		<szDetailedExploredName>Calisto</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>225</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>C15</SectorGrid>
+		<szUnexploredName>Woods</szUnexploredName>
+		<szDetailedUnexploredName>Woods</szDetailedUnexploredName>
+		<szExploredName>Woods, Utility Road</szExploredName>
+		<szDetailedExploredName>Woods, Utility Road</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>C16</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>D1</SectorGrid>
+		<szUnexploredName>Dense Forest</szUnexploredName>
+		<szDetailedUnexploredName>Dense Forest</szDetailedUnexploredName>
+		<szExploredName>Forest, Gun Runners</szExploredName>
+		<szDetailedExploredName>Forest, Gun Runners</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>D2</SectorGrid>
+		<szUnexploredName>Woods</szUnexploredName>
+		<szDetailedUnexploredName>Woods</szDetailedUnexploredName>
+		<szExploredName>SAM Site</szExploredName>
+		<szDetailedExploredName>Northwest SAM Site</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>D3</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road, Gas Station</szExploredName>
+		<szDetailedExploredName>Road, Gas Station</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>D4</SectorGrid>
+		<szUnexploredName>Port Kip</szUnexploredName>
+		<szDetailedUnexploredName>Port Kip</szDetailedUnexploredName>
+		<szExploredName>Port Kip, Bridge</szExploredName>
+		<szDetailedExploredName>Port Kip, Bridge</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>D5</SectorGrid>
+		<szUnexploredName>Port Kip</szUnexploredName>
+		<szDetailedUnexploredName>Port Kip</szDetailedUnexploredName>
+		<szExploredName>Port Kip, Kingpin's Clubhouse</szExploredName>
+		<szDetailedExploredName>Port Kip, Kingpin's Clubhouse</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>D6</SectorGrid>
+		<szUnexploredName>Port Kip</szUnexploredName>
+		<szDetailedUnexploredName>Port Kip</szDetailedUnexploredName>
+		<szExploredName>Port Kip, Police Station</szExploredName>
+		<szDetailedExploredName>Port Kip, Police Station</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+		<usPrisonRoomNumber00>68</usPrisonRoomNumber00>
+		<usPrisonRoomNumber01>69</usPrisonRoomNumber01>
+		<usPrisonRoomNumber02>71</usPrisonRoomNumber02>
+		<usPrisonRoomNumber03>72</usPrisonRoomNumber03>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>D7</SectorGrid>
+		<szUnexploredName>Port Kip</szUnexploredName>
+		<szDetailedUnexploredName>Port Kip</szDetailedUnexploredName>
+		<szExploredName>Port Kip</szExploredName>
+		<szDetailedExploredName>Port Kip</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>D8</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>D9</SectorGrid>
+		<szUnexploredName>Road, Casino</szUnexploredName>
+		<szDetailedUnexploredName>Road, Casino</szDetailedUnexploredName>
+		<szExploredName>Road, Casino</szExploredName>
+		<szDetailedExploredName>Road, Casino</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>275</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>D10</SectorGrid>
+		<szUnexploredName>River</szUnexploredName>
+		<szDetailedUnexploredName>River</szDetailedUnexploredName>
+		<szExploredName>River</szExploredName>
+		<szDetailedExploredName>River</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>D11</SectorGrid>
+		<szUnexploredName>River</szUnexploredName>
+		<szDetailedUnexploredName>River</szDetailedUnexploredName>
+		<szExploredName>River</szExploredName>
+		<szDetailedExploredName>River</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>D12</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>D13</SectorGrid>
+		<szUnexploredName>Calisto Factory</szUnexploredName>
+		<szDetailedUnexploredName>Calisto Factory</szDetailedUnexploredName>
+		<szExploredName>Calisto Factory</szExploredName>
+		<szDetailedExploredName>Calisto Factory</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>225</usNaturalDirt>
+		<usPrisonRoomNumber00>111</usPrisonRoomNumber00>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>D14</SectorGrid>
+		<szUnexploredName>Village</szUnexploredName>
+		<szDetailedUnexploredName>Village</szDetailedUnexploredName>
+		<szExploredName>Village, Abandoned Mine</szExploredName>
+		<szDetailedExploredName>Village, Abandoned Mine</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>D15</SectorGrid>
+		<szUnexploredName>Woods</szUnexploredName>
+		<szDetailedUnexploredName>Woods</szDetailedUnexploredName>
+		<szExploredName>SAM Site</szExploredName>
+		<szDetailedExploredName>Northeast SAM Site</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>D16</SectorGrid>
+		<szUnexploredName>Border Gas Station</szUnexploredName>
+		<szDetailedUnexploredName>Border Gas Station</szDetailedUnexploredName>
+		<szExploredName>Border Gas Station</szExploredName>
+		<szDetailedExploredName>Border Gas Station</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>225</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>E1</SectorGrid>
+		<szUnexploredName>River</szUnexploredName>
+		<szDetailedUnexploredName>River</szDetailedUnexploredName>
+		<szExploredName>River</szExploredName>
+		<szDetailedExploredName>River</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>E2</SectorGrid>
+		<szUnexploredName>River</szUnexploredName>
+		<szDetailedUnexploredName>River</szDetailedUnexploredName>
+		<szExploredName>River</szExploredName>
+		<szDetailedExploredName>River</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>E3</SectorGrid>
+		<szUnexploredName>Road, River Crossing</szUnexploredName>
+		<szDetailedUnexploredName>Road, River Crossing</szDetailedUnexploredName>
+		<szExploredName>Road, River Crossing</szExploredName>
+		<szDetailedExploredName>Road, River Crossing</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>E4</SectorGrid>
+		<szUnexploredName>River Delta</szUnexploredName>
+		<szDetailedUnexploredName>River Delta</szDetailedUnexploredName>
+		<szExploredName>River Delta</szExploredName>
+		<szDetailedExploredName>River Delta</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>E5</SectorGrid>
+		<szUnexploredName>Trailer Park</szUnexploredName>
+		<szDetailedUnexploredName>Trailer Park</szDetailedUnexploredName>
+		<szExploredName>Trailer Park</szExploredName>
+		<szDetailedExploredName>Trailer Park</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>E6</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>E7</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road</szExploredName>
+		<szDetailedExploredName>Road</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>E8</SectorGrid>
+		<szUnexploredName>River</szUnexploredName>
+		<szDetailedUnexploredName>River</szDetailedUnexploredName>
+		<szExploredName>River</szExploredName>
+		<szDetailedExploredName>River</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>E9</SectorGrid>
+		<szUnexploredName>Road, River Crossing</szUnexploredName>
+		<szDetailedUnexploredName>Road, River Crossing</szDetailedUnexploredName>
+		<szExploredName>Road, River Crossing</szExploredName>
+		<szDetailedExploredName>Road, River Crossing</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>E10</SectorGrid>
+		<szUnexploredName>Woodland River</szUnexploredName>
+		<szDetailedUnexploredName>Woodland River</szDetailedUnexploredName>
+		<szExploredName>Woodland River</szExploredName>
+		<szDetailedExploredName>Woodland River</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>E11</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road, Suburbs</szExploredName>
+		<szDetailedExploredName>Road, Suburbs</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>E12</SectorGrid>
+		<szUnexploredName>Woods</szUnexploredName>
+		<szDetailedUnexploredName>Woods</szDetailedUnexploredName>
+		<szExploredName>Woods</szExploredName>
+		<szDetailedExploredName>Woods</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>E13</SectorGrid>
+		<szUnexploredName>Calisto</szUnexploredName>
+		<szDetailedUnexploredName>Calisto</szDetailedUnexploredName>
+		<szExploredName>Calisto</szExploredName>
+		<szDetailedExploredName>Calisto</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>225</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>E14</SectorGrid>
+		<szUnexploredName>Farmland, Utility Road</szUnexploredName>
+		<szDetailedUnexploredName>Farmland, Utility Road</szDetailedUnexploredName>
+		<szExploredName>Farmland, Utility Road</szExploredName>
+		<szDetailedExploredName>Farmland, Utility Road</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>E15</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>E16</SectorGrid>
+		<szUnexploredName>Unknown</szUnexploredName>
+		<szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+		<szExploredName>Unknown</szExploredName>
+		<szDetailedExploredName>Unknown</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>F1</SectorGrid>
+		<szUnexploredName>Coastline</szUnexploredName>
+		<szDetailedUnexploredName>Coastline</szDetailedUnexploredName>
+		<szExploredName>Coastline</szExploredName>
+		<szDetailedExploredName>Coastline</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>F2</SectorGrid>
+		<szUnexploredName>Coastline</szUnexploredName>
+		<szDetailedUnexploredName>Coastline</szDetailedUnexploredName>
+		<szExploredName>Costal Dacha</szExploredName>
+		<szDetailedExploredName>Costal Dacha</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>F3</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Plains, road</szExploredName>
+		<szDetailedExploredName>Plains, road</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>F4</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>F5</SectorGrid>
+		<szUnexploredName>River Delta</szUnexploredName>
+		<szDetailedUnexploredName>River Delta</szDetailedUnexploredName>
+		<szExploredName>River Delta</szExploredName>
+		<szDetailedExploredName>River Delta</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>F6</SectorGrid>
+		<szUnexploredName>River</szUnexploredName>
+		<szDetailedUnexploredName>River</szDetailedUnexploredName>
+		<szExploredName>River, Arms Depot</szExploredName>
+		<szDetailedExploredName>River, Arms Depot</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>F7</SectorGrid>
+		<szUnexploredName>Road, River Crossing</szUnexploredName>
+		<szDetailedUnexploredName>Road, River Crossing</szDetailedUnexploredName>
+		<szExploredName>Road, River Crossing</szExploredName>
+		<szDetailedExploredName>Road, River Crossing</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>F8</SectorGrid>
+		<szUnexploredName>Galileo, Stadium</szUnexploredName>
+		<szDetailedUnexploredName>Galileo, Stadium</szDetailedUnexploredName>
+		<szExploredName>Galileo, Stadium</szExploredName>
+		<szDetailedExploredName>Galileo, Stadium</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>275</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>F9</SectorGrid>
+		<szUnexploredName>Galileo, Hospital</szUnexploredName>
+		<szDetailedUnexploredName>Galileo, Hospital</szDetailedUnexploredName>
+		<szExploredName>Galileo, Hospital</szExploredName>
+		<szDetailedExploredName>Galileo, Hospital</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>275</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>F10</SectorGrid>
+		<szUnexploredName>River Delta</szUnexploredName>
+		<szDetailedUnexploredName>River Delta</szDetailedUnexploredName>
+		<szExploredName>River Delta, Arms Depot</szExploredName>
+		<szDetailedExploredName>River Delta, Arms Depot</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>F11</SectorGrid>
+		<szUnexploredName>Woods</szUnexploredName>
+		<szDetailedUnexploredName>Woods</szDetailedUnexploredName>
+		<szExploredName>Woods</szExploredName>
+		<szDetailedExploredName>Woods</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>F12</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road, Abandoned Mine</szExploredName>
+		<szDetailedExploredName>Road, Abandoned Mine</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>F13</SectorGrid>
+		<szUnexploredName>Woodland River</szUnexploredName>
+		<szDetailedUnexploredName>Woodland River</szDetailedUnexploredName>
+		<szExploredName>Woodland River</szExploredName>
+		<szDetailedExploredName>Woodland River</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>F14</SectorGrid>
+		<szUnexploredName>Woodland River</szUnexploredName>
+		<szDetailedUnexploredName>Woodland River</szDetailedUnexploredName>
+		<szExploredName>Woodland River</szExploredName>
+		<szDetailedExploredName>Woodland River</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>F15</SectorGrid>
+		<szUnexploredName>Border Shipping Yard</szUnexploredName>
+		<szDetailedUnexploredName>Border Shipping Yard</szDetailedUnexploredName>
+		<szExploredName>Border Shipping Yard</szExploredName>
+		<szDetailedExploredName>Border Shipping Yard</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>225</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>F16</SectorGrid>
+		<szUnexploredName>Unknown</szUnexploredName>
+		<szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+		<szExploredName>Unknown</szExploredName>
+		<szDetailedExploredName>Unknown</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>G1</SectorGrid>
+		<szUnexploredName>Drake</szUnexploredName>
+		<szDetailedUnexploredName>Drake</szDetailedUnexploredName>
+		<szExploredName>Drake</szExploredName>
+		<szDetailedExploredName>Drake</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>225</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>G2</SectorGrid>
+		<szUnexploredName>Drake University</szUnexploredName>
+		<szDetailedUnexploredName>Drake University</szDetailedUnexploredName>
+		<szExploredName>Drake University</szExploredName>
+		<szDetailedExploredName>Drake University</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>225</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>G3</SectorGrid>
+		<szUnexploredName>Drake</szUnexploredName>
+		<szDetailedUnexploredName>Drake</szDetailedUnexploredName>
+		<szExploredName>Drake</szExploredName>
+		<szDetailedExploredName>Drake</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>225</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>G4</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road, Suburbs</szExploredName>
+		<szDetailedExploredName>Road, Suburbs</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>G5</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road</szExploredName>
+		<szDetailedExploredName>Road</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>G6</SectorGrid>
+		<szUnexploredName>Road, Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Road, Farmland</szDetailedUnexploredName>
+		<szExploredName>Road, Farmland</szExploredName>
+		<szDetailedExploredName>Road, Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>G7</SectorGrid>
+		<szUnexploredName>Galileo</szUnexploredName>
+		<szDetailedUnexploredName>Galileo</szDetailedUnexploredName>
+		<szExploredName>Galileo</szExploredName>
+		<szDetailedExploredName>Galileo</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>275</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>G8</SectorGrid>
+		<szUnexploredName>Galileo</szUnexploredName>
+		<szDetailedUnexploredName>Galileo</szDetailedUnexploredName>
+		<szExploredName>Galileo</szExploredName>
+		<szDetailedExploredName>Galileo</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>275</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>G9</SectorGrid>
+		<szUnexploredName>Galileo</szUnexploredName>
+		<szDetailedUnexploredName>Galileo</szDetailedUnexploredName>
+		<szExploredName>Galileo</szExploredName>
+		<szDetailedExploredName>Galileo</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>275</usNaturalDirt>
+		<usPrisonRoomNumber00>122</usPrisonRoomNumber00>
+		<usPrisonRoomNumber01>123</usPrisonRoomNumber01>
+		<usPrisonRoomNumber02>124</usPrisonRoomNumber02>
+		<usPrisonRoomNumber03>126</usPrisonRoomNumber03>
+		<usPrisonRoomNumber04>127</usPrisonRoomNumber04>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>G10</SectorGrid>
+		<szUnexploredName>Galileo</szUnexploredName>
+		<szDetailedUnexploredName>Galileo</szDetailedUnexploredName>
+		<szExploredName>Galileo</szExploredName>
+		<szDetailedExploredName>Galileo</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>275</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>G11</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road</szExploredName>
+		<szDetailedExploredName>Road</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>G12</SectorGrid>
+		<szUnexploredName>Road, Suburbs</szUnexploredName>
+		<szDetailedUnexploredName>Road, Suburbs</szDetailedUnexploredName>
+		<szExploredName>Road, Suburbs</szExploredName>
+		<szDetailedExploredName>Road, Suburbs</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>G13</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>G14</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>G15</SectorGrid>
+		<szUnexploredName>Lake</szUnexploredName>
+		<szDetailedUnexploredName>Lake</szDetailedUnexploredName>
+		<szExploredName>Lake</szExploredName>
+		<szDetailedExploredName>Lake</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>G16</SectorGrid>
+		<szUnexploredName>Woods</szUnexploredName>
+		<szDetailedUnexploredName>Woods</szDetailedUnexploredName>
+		<szExploredName>Woods</szExploredName>
+		<szDetailedExploredName>Woods</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>H1</SectorGrid>
+		<szUnexploredName>Drake</szUnexploredName>
+		<szDetailedUnexploredName>Drake</szDetailedUnexploredName>
+		<szExploredName>Drake</szExploredName>
+		<szDetailedExploredName>Drake</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>225</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>H2</SectorGrid>
+		<szUnexploredName>Drake</szUnexploredName>
+		<szDetailedUnexploredName>Drake</szDetailedUnexploredName>
+		<szExploredName>Drake</szExploredName>
+		<szDetailedExploredName>Drake</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>225</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>H3</SectorGrid>
+		<szUnexploredName>Drake Factory</szUnexploredName>
+		<szDetailedUnexploredName>Drake Factory</szDetailedUnexploredName>
+		<szExploredName>Drake Factory</szExploredName>
+		<szDetailedExploredName>Drake Factory</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>225</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>H4</SectorGrid>
+		<szUnexploredName>Wetlands</szUnexploredName>
+		<szDetailedUnexploredName>Wetlands</szDetailedUnexploredName>
+		<szExploredName>Wetlands</szExploredName>
+		<szDetailedExploredName>Wetlands</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>H5</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>H6</SectorGrid>
+		<szUnexploredName>Gotham</szUnexploredName>
+		<szDetailedUnexploredName>Gotham</szDetailedUnexploredName>
+		<szExploredName>Gotham</szExploredName>
+		<szDetailedExploredName>Gotham</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>H7</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>H8</SectorGrid>
+		<szUnexploredName>Galileo Factory</szUnexploredName>
+		<szDetailedUnexploredName>Galileo Factory</szDetailedUnexploredName>
+		<szExploredName>Galileo Factory</szExploredName>
+		<szDetailedExploredName>Galileo Factory</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>275</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>H9</SectorGrid>
+		<szUnexploredName>Galileo</szUnexploredName>
+		<szDetailedUnexploredName>Galileo</szDetailedUnexploredName>
+		<szExploredName>Galileo</szExploredName>
+		<szDetailedExploredName>Galileo</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>275</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>H10</SectorGrid>
+		<szUnexploredName>Lake</szUnexploredName>
+		<szDetailedUnexploredName>Lake</szDetailedUnexploredName>
+		<szExploredName>Lake</szExploredName>
+		<szDetailedExploredName>Lake</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>H11</SectorGrid>
+		<szUnexploredName>Lake</szUnexploredName>
+		<szDetailedUnexploredName>Lake</szDetailedUnexploredName>
+		<szExploredName>Lake</szExploredName>
+		<szDetailedExploredName>Lake</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>H12</SectorGrid>
+		<szUnexploredName>Troy</szUnexploredName>
+		<szDetailedUnexploredName>Troy</szDetailedUnexploredName>
+		<szExploredName>Troy</szExploredName>
+		<szDetailedExploredName>Troy</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+		<usPrisonRoomNumber00>121</usPrisonRoomNumber00>
+		<usPrisonRoomNumber01>123</usPrisonRoomNumber01>
+		<usPrisonRoomNumber02>124</usPrisonRoomNumber02>
+		<usPrisonRoomNumber03>127</usPrisonRoomNumber03>
+		<usPrisonRoomNumber04>128</usPrisonRoomNumber04>
+		<usPrisonRoomNumber05>129</usPrisonRoomNumber05>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>H13</SectorGrid>
+		<szUnexploredName>Troy</szUnexploredName>
+		<szDetailedUnexploredName>Troy</szDetailedUnexploredName>
+		<szExploredName>Troy</szExploredName>
+		<szDetailedExploredName>Troy</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>H14</SectorGrid>
+		<szUnexploredName>Troy</szUnexploredName>
+		<szDetailedUnexploredName>Troy</szDetailedUnexploredName>
+		<szExploredName>Troy</szExploredName>
+		<szDetailedExploredName>Troy</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>H15</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>H16</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>I1</SectorGrid>
+		<szUnexploredName>Drake</szUnexploredName>
+		<szDetailedUnexploredName>Drake</szDetailedUnexploredName>
+		<szExploredName>Drake</szExploredName>
+		<szDetailedExploredName>Drake</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>225</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>I2</SectorGrid>
+		<szUnexploredName>Drake</szUnexploredName>
+		<szDetailedUnexploredName>Drake</szDetailedUnexploredName>
+		<szExploredName>Drake</szExploredName>
+		<szDetailedExploredName>Drake</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>225</usNaturalDirt>
+		<usPrisonRoomNumber00>44</usPrisonRoomNumber00>
+		<usPrisonRoomNumber01>45</usPrisonRoomNumber01>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>I3</SectorGrid>
+		<szUnexploredName>Drake</szUnexploredName>
+		<szDetailedUnexploredName>Drake</szDetailedUnexploredName>
+		<szExploredName>Drake, Summer Home</szExploredName>
+		<szDetailedExploredName>Drake, Summer Home</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>225</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>I4</SectorGrid>
+		<szUnexploredName>River</szUnexploredName>
+		<szDetailedUnexploredName>River</szDetailedUnexploredName>
+		<szExploredName>River</szExploredName>
+		<szDetailedExploredName>River</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>I5</SectorGrid>
+		<szUnexploredName>Woods</szUnexploredName>
+		<szDetailedUnexploredName>Woods</szDetailedUnexploredName>
+		<szExploredName>Gun Runner Depot</szExploredName>
+		<szDetailedExploredName>Gun Runner Depot</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>I6</SectorGrid>
+		<szUnexploredName>Gotham Airstrip</szUnexploredName>
+		<szDetailedUnexploredName>Gotham Airstrip</szDetailedUnexploredName>
+		<szExploredName>Gotham Airstrip</szExploredName>
+		<szDetailedExploredName>Gotham Airstrip</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>I7</SectorGrid>
+		<szUnexploredName>Dense Forest</szUnexploredName>
+		<szDetailedUnexploredName>Dense Forest</szDetailedUnexploredName>
+		<szExploredName>Dense Forest</szExploredName>
+		<szDetailedExploredName>Dense Forest</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>350</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>I8</SectorGrid>
+		<szUnexploredName>Woods</szUnexploredName>
+		<szDetailedUnexploredName>Woods</szDetailedUnexploredName>
+		<szExploredName>SAM Site</szExploredName>
+		<szDetailedExploredName>Central SAM Site</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>I9</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>I10</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>I11</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>I12</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>I13</SectorGrid>
+		<szUnexploredName>Troy</szUnexploredName>
+		<szDetailedUnexploredName>Troy</szDetailedUnexploredName>
+		<szExploredName>Troy, Training Facility</szExploredName>
+		<szDetailedExploredName>Troy, Training Facility</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>200</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>I14</SectorGrid>
+		<szUnexploredName>Troy Factory</szUnexploredName>
+		<szDetailedUnexploredName>Troy Factory</szDetailedUnexploredName>
+		<szExploredName>Troy Factory</szExploredName>
+		<szDetailedExploredName>Troy Factory</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>275</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>I15</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>I16</SectorGrid>
+		<szUnexploredName>Outpost</szUnexploredName>
+		<szDetailedUnexploredName>Outpost</szDetailedUnexploredName>
+		<szExploredName>Outpost, Arms Depot</szExploredName>
+		<szDetailedExploredName>Outpost, Arms Depot</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>J1</SectorGrid>
+		<szUnexploredName>Railway Border Crossing</szUnexploredName>
+		<szDetailedUnexploredName>Railway Border Crossing</szDetailedUnexploredName>
+		<szExploredName>Railway Border Crossing</szExploredName>
+		<szDetailedExploredName>Railway Border Crossing</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>J2</SectorGrid>
+		<szUnexploredName>Road, River Crossing</szUnexploredName>
+		<szDetailedUnexploredName>Road, River Crossing</szDetailedUnexploredName>
+		<szExploredName>Road, River Crossing</szExploredName>
+		<szDetailedExploredName>Road, River Crossing</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>J3</SectorGrid>
+		<szUnexploredName>Road Junction</szUnexploredName>
+		<szDetailedUnexploredName>Road Junction</szDetailedUnexploredName>
+		<szExploredName>Road Junction</szExploredName>
+		<szDetailedExploredName>Road Junction</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>J4</SectorGrid>
+		<szUnexploredName>Roxx</szUnexploredName>
+		<szDetailedUnexploredName>Roxx</szDetailedUnexploredName>
+		<szExploredName>Roxx</szExploredName>
+		<szDetailedExploredName>Roxx, Prison</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+		<usPrisonRoomNumber00>28</usPrisonRoomNumber00>
+		<usPrisonRoomNumber01>29</usPrisonRoomNumber01>
+		<usPrisonRoomNumber02>30</usPrisonRoomNumber02>
+		<usPrisonRoomNumber03>31</usPrisonRoomNumber03>
+		<usPrisonRoomNumber04>32</usPrisonRoomNumber04>
+		<usPrisonRoomNumber05>35</usPrisonRoomNumber05>
+		<usPrisonRoomNumber06>36</usPrisonRoomNumber06>
+		<usPrisonRoomNumber07>37</usPrisonRoomNumber07>
+		<usPrisonRoomNumber08>38</usPrisonRoomNumber08>
+		<usPrisonRoomNumber09>39</usPrisonRoomNumber09>
+		<usPrisonRoomNumber10>42</usPrisonRoomNumber10>
+		<usPrisonRoomNumber11>43</usPrisonRoomNumber11>
+		<usPrisonRoomNumber12>44</usPrisonRoomNumber12>
+		<usPrisonRoomNumber13>45</usPrisonRoomNumber13>
+		<usPrisonRoomNumber14>46</usPrisonRoomNumber14>
+		<usPrisonRoomNumber15>40</usPrisonRoomNumber15>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>J5</SectorGrid>
+		<szUnexploredName>Swamp</szUnexploredName>
+		<szDetailedUnexploredName>Swamp</szDetailedUnexploredName>
+		<szExploredName>Swamp</szExploredName>
+		<szDetailedExploredName>Swamp</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>500</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>J6</SectorGrid>
+		<szUnexploredName>Gotham</szUnexploredName>
+		<szDetailedUnexploredName>Gotham</szDetailedUnexploredName>
+		<szExploredName>Gotham</szExploredName>
+		<szDetailedExploredName>Gotham</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>J7</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>J8</SectorGrid>
+		<szUnexploredName>Dense Forest</szUnexploredName>
+		<szDetailedUnexploredName>Dense Forest</szDetailedUnexploredName>
+		<szExploredName>Dense Forest</szExploredName>
+		<szDetailedExploredName>Dense Forest</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>350</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>J9</SectorGrid>
+		<szUnexploredName>Prax</szUnexploredName>
+		<szDetailedUnexploredName>Prax</szDetailedUnexploredName>
+		<szExploredName>Prax Institution</szExploredName>
+		<szDetailedExploredName>Prax Mental Institution</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>J10</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>J11</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>J12</SectorGrid>
+		<szUnexploredName>River</szUnexploredName>
+		<szDetailedUnexploredName>River</szDetailedUnexploredName>
+		<szExploredName>River</szExploredName>
+		<szDetailedExploredName>River</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>J13</SectorGrid>
+		<szUnexploredName>Resort</szUnexploredName>
+		<szDetailedUnexploredName>Resort</szDetailedUnexploredName>
+		<szExploredName>Resort</szExploredName>
+		<szDetailedExploredName>Resort</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>J14</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road, Suburbs</szExploredName>
+		<szDetailedExploredName>Road, Suburbs</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>J15</SectorGrid>
+		<szUnexploredName>Woods</szUnexploredName>
+		<szDetailedUnexploredName>Woods</szDetailedUnexploredName>
+		<szExploredName>Woods</szExploredName>
+		<szDetailedExploredName>Woods</szDetailedExploredName>
+		<sWaterType>2</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>J16</SectorGrid>
+		<szUnexploredName>Unknown</szUnexploredName>
+		<szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+		<szExploredName>Unknown</szExploredName>
+		<szDetailedExploredName>Unknown</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>K1</SectorGrid>
+		<szUnexploredName>Woods</szUnexploredName>
+		<szDetailedUnexploredName>Woods</szDetailedUnexploredName>
+		<szExploredName>Road, Woodland Dacha</szExploredName>
+		<szDetailedExploredName>Road, Woodland Dacha</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>K2</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road</szExploredName>
+		<szDetailedExploredName>Road</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>K3</SectorGrid>
+		<szUnexploredName>Swamp</szUnexploredName>
+		<szDetailedUnexploredName>Swamp</szDetailedUnexploredName>
+		<szExploredName>Swamp</szExploredName>
+		<szDetailedExploredName>Swamp</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>500</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>K4</SectorGrid>
+		<szUnexploredName>Roxx</szUnexploredName>
+		<szDetailedUnexploredName>Roxx</szDetailedUnexploredName>
+		<szExploredName>Roxx</szExploredName>
+		<szDetailedExploredName>Roxx</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>K5</SectorGrid>
+		<szUnexploredName>Swamp</szUnexploredName>
+		<szDetailedUnexploredName>Swamp</szDetailedUnexploredName>
+		<szExploredName>Swamp</szExploredName>
+		<szDetailedExploredName>Swamp</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>500</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>K6</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road</szExploredName>
+		<szDetailedExploredName>Road</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>K7</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road</szExploredName>
+		<szDetailedExploredName>Road</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>K8</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Junction to Base</szExploredName>
+		<szDetailedExploredName>Junction to Base</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>K9</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road</szExploredName>
+		<szDetailedExploredName>Road</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>K10</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road</szExploredName>
+		<szDetailedExploredName>Road</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>K11</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road</szExploredName>
+		<szDetailedExploredName>Road</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>K12</SectorGrid>
+		<szUnexploredName>Rudesa</szUnexploredName>
+		<szDetailedUnexploredName>Rudesa</szDetailedUnexploredName>
+		<szExploredName>Rudesa, Redlight District</szExploredName>
+		<szDetailedExploredName>Rudesa, Redlight District</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>K13</SectorGrid>
+		<szUnexploredName>Rudesa</szUnexploredName>
+		<szDetailedUnexploredName>Rudesa</szDetailedUnexploredName>
+		<szExploredName>Rudesa</szExploredName>
+		<szDetailedExploredName>Rudesa</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>K14</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road</szExploredName>
+		<szDetailedExploredName>Road</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>K15</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>K16</SectorGrid>
+		<szUnexploredName>Unknown</szUnexploredName>
+		<szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+		<szExploredName>Unknown</szExploredName>
+		<szDetailedExploredName>Unknown</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>L1</SectorGrid>
+		<szUnexploredName>Coastal Road</szUnexploredName>
+		<szDetailedUnexploredName>Coastal Road</szDetailedUnexploredName>
+		<szExploredName>Coastal Road</szExploredName>
+		<szDetailedExploredName>Coastal Road</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>L2</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road</szExploredName>
+		<szDetailedExploredName>Road</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>L3</SectorGrid>
+		<szUnexploredName>Outpost</szUnexploredName>
+		<szDetailedUnexploredName>Outpost</szDetailedUnexploredName>
+		<szExploredName>Outpost</szExploredName>
+		<szDetailedExploredName>Outpost</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>L4</SectorGrid>
+		<szUnexploredName>Swamp</szUnexploredName>
+		<szDetailedUnexploredName>Swamp</szDetailedUnexploredName>
+		<szExploredName>Swamp</szExploredName>
+		<szDetailedExploredName>Swamp</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>500</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>L5</SectorGrid>
+		<szUnexploredName>Swamp</szUnexploredName>
+		<szDetailedUnexploredName>Swamp</szDetailedUnexploredName>
+		<szExploredName>Swamp</szExploredName>
+		<szDetailedExploredName>Swamp</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>500</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>L6</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road</szExploredName>
+		<szDetailedExploredName>Road</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>L7</SectorGrid>
+		<szUnexploredName>Desert</szUnexploredName>
+		<szDetailedUnexploredName>Desert</szDetailedUnexploredName>
+		<szExploredName>Desert</szExploredName>
+		<szDetailedExploredName>Desert</szDetailedExploredName>
+		<sWaterType>0</sWaterType>
+		<usNaturalDirt>900</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>L8</SectorGrid>
+		<szUnexploredName>Military Base</szUnexploredName>
+		<szDetailedUnexploredName>Military Base</szDetailedUnexploredName>
+		<szExploredName>Military Base</szExploredName>
+		<szDetailedExploredName>Military Base</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>L9</SectorGrid>
+		<szUnexploredName>River</szUnexploredName>
+		<szDetailedUnexploredName>River</szDetailedUnexploredName>
+		<szExploredName>River</szExploredName>
+		<szDetailedExploredName>River</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>L10</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road, Gas Station</szExploredName>
+		<szDetailedExploredName>Road, Gas Station</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>L11</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road, Suburbs</szExploredName>
+		<szDetailedExploredName>Road, Suburbs</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>L12</SectorGrid>
+		<szUnexploredName>Rudesa</szUnexploredName>
+		<szDetailedUnexploredName>Rudesa</szDetailedUnexploredName>
+		<szExploredName>Rudesa, Casino</szExploredName>
+		<szDetailedExploredName>Rudesa, Casino</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>L13</SectorGrid>
+		<szUnexploredName>Rudesa</szUnexploredName>
+		<szDetailedUnexploredName>Rudesa</szDetailedUnexploredName>
+		<szExploredName>Rudesa</szExploredName>
+		<szDetailedExploredName>Rudesa</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>L14</SectorGrid>
+		<szUnexploredName>Plains</szUnexploredName>
+		<szDetailedUnexploredName>Plains</szDetailedUnexploredName>
+		<szExploredName>Gun Runner's Airstrip</szExploredName>
+		<szDetailedExploredName>Gun Runner's Airstrip</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>L15</SectorGrid>
+		<szUnexploredName>Farmland</szUnexploredName>
+		<szDetailedUnexploredName>Farmland</szDetailedUnexploredName>
+		<szExploredName>Farmland</szExploredName>
+		<szDetailedExploredName>Farmland</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>L16</SectorGrid>
+		<szUnexploredName>Unknown</szUnexploredName>
+		<szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+		<szExploredName>Unknown</szExploredName>
+		<szDetailedExploredName>Unknown</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>M1</SectorGrid>
+		<szUnexploredName>Coastal Road</szUnexploredName>
+		<szDetailedUnexploredName>Coastal Road</szDetailedUnexploredName>
+		<szExploredName>Coastal Road</szExploredName>
+		<szDetailedExploredName>Coastal Road</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>M2</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road, Suburbs</szExploredName>
+		<szDetailedExploredName>Road, Suburbs</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>M3</SectorGrid>
+		<szUnexploredName>Airport Extension</szUnexploredName>
+		<szDetailedUnexploredName>Airport Extension</szDetailedUnexploredName>
+		<szExploredName>Airport Extension</szExploredName>
+		<szDetailedExploredName>Airport Extension</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>200</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>M4</SectorGrid>
+		<szUnexploredName>Hills</szUnexploredName>
+		<szDetailedUnexploredName>Hills</szDetailedUnexploredName>
+		<szExploredName>Outpost</szExploredName>
+		<szDetailedExploredName>Outpost</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>M5</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road</szExploredName>
+		<szDetailedExploredName>Road</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>M6</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road Block</szExploredName>
+		<szDetailedExploredName>Road Block</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>M7</SectorGrid>
+		<szUnexploredName>Plains</szUnexploredName>
+		<szDetailedUnexploredName>Plains</szDetailedUnexploredName>
+		<szExploredName>Plains</szExploredName>
+		<szDetailedExploredName>Plains</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>M8</SectorGrid>
+		<szUnexploredName>Plains</szUnexploredName>
+		<szDetailedUnexploredName>Plains</szDetailedUnexploredName>
+		<szExploredName>Plains</szExploredName>
+		<szDetailedExploredName>Plains</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>M9</SectorGrid>
+		<szUnexploredName>Plains</szUnexploredName>
+		<szDetailedUnexploredName>Plains</szDetailedUnexploredName>
+		<szExploredName>Plains</szExploredName>
+		<szDetailedExploredName>Plains</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>M10</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road</szExploredName>
+		<szDetailedExploredName>Road</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>M11</SectorGrid>
+		<szUnexploredName>Seaport</szUnexploredName>
+		<szDetailedUnexploredName>Seaport</szDetailedUnexploredName>
+		<szExploredName>Seaport</szExploredName>
+		<szDetailedExploredName>Seaport</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>M12</SectorGrid>
+		<szUnexploredName>Impassable</szUnexploredName>
+		<szDetailedUnexploredName>Impassable</szDetailedUnexploredName>
+		<szExploredName>Impassable</szExploredName>
+		<szDetailedExploredName>Impassable</szDetailedExploredName>
+		<sWaterType>2</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>M13</SectorGrid>
+		<szUnexploredName>Port</szUnexploredName>
+		<szDetailedUnexploredName>Port</szDetailedUnexploredName>
+		<szExploredName>Navy Depot</szExploredName>
+		<szDetailedExploredName>Navy Depot</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>M14</SectorGrid>
+		<szUnexploredName>Swamp</szUnexploredName>
+		<szDetailedUnexploredName>Swamp</szDetailedUnexploredName>
+		<szExploredName>Warehouses</szExploredName>
+		<szDetailedExploredName>Warehouses</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>M15</SectorGrid>
+		<szUnexploredName>Unknown</szUnexploredName>
+		<szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+		<szExploredName>Unknown</szExploredName>
+		<szDetailedExploredName>Unknown</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>M16</SectorGrid>
+		<szUnexploredName>Unknown</szUnexploredName>
+		<szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+		<szExploredName>Unknown</szExploredName>
+		<szDetailedExploredName>Unknown</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>N1</SectorGrid>
+		<szUnexploredName>Coastal Road</szUnexploredName>
+		<szDetailedUnexploredName>Coastal Road</szDetailedUnexploredName>
+		<szExploredName>Coastal Road</szExploredName>
+		<szDetailedExploredName>Coastal Road</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>N2</SectorGrid>
+		<szUnexploredName>Adrian</szUnexploredName>
+		<szDetailedUnexploredName>Adrian</szDetailedUnexploredName>
+		<szExploredName>Adrian</szExploredName>
+		<szDetailedExploredName>Adrian</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>200</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>N3</SectorGrid>
+		<szUnexploredName>Adrian International Airport</szUnexploredName>
+		<szDetailedUnexploredName>Adrian International Airport</szDetailedUnexploredName>
+		<szExploredName>Adrian International Airport</szExploredName>
+		<szDetailedExploredName>Adrian International Airport</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>200</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>N4</SectorGrid>
+		<szUnexploredName>Adrian</szUnexploredName>
+		<szDetailedUnexploredName>Adrian</szDetailedUnexploredName>
+		<szExploredName>Adrian SAM Site</szExploredName>
+		<szDetailedExploredName>Adrian SAM Site</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>200</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>N5</SectorGrid>
+		<szUnexploredName>Adrian</szUnexploredName>
+		<szDetailedUnexploredName>Adrian</szDetailedUnexploredName>
+		<szExploredName>Adrian</szExploredName>
+		<szDetailedExploredName>Adrian</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>200</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>N6</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road, Mortuary</szExploredName>
+		<szDetailedExploredName>Road, Mortuary</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>N7</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road, Prison</szExploredName>
+		<szDetailedExploredName>Road, Prison</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>N8</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road</szExploredName>
+		<szDetailedExploredName>Road</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>N9</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road</szExploredName>
+		<szDetailedExploredName>Road</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>N10</SectorGrid>
+		<szUnexploredName>Road</szUnexploredName>
+		<szDetailedUnexploredName>Road</szDetailedUnexploredName>
+		<szExploredName>Road</szExploredName>
+		<szDetailedExploredName>Road</szDetailedExploredName>
+		<sWaterType>2</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>N11</SectorGrid>
+		<szUnexploredName>Impassable</szUnexploredName>
+		<szDetailedUnexploredName>Impassable</szDetailedUnexploredName>
+		<szExploredName>Impassable</szExploredName>
+		<szDetailedExploredName>Impassable</szDetailedExploredName>
+		<sWaterType>2</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>N12</SectorGrid>
+		<szUnexploredName>Island</szUnexploredName>
+		<szDetailedUnexploredName>Island</szDetailedUnexploredName>
+		<szExploredName>Island</szExploredName>
+		<szDetailedExploredName>Island</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>N13</SectorGrid>
+		<szUnexploredName>Unknown</szUnexploredName>
+		<szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+		<szExploredName>Unknown</szExploredName>
+		<szDetailedExploredName>Unknown</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>N14</SectorGrid>
+		<szUnexploredName>Unknown</szUnexploredName>
+		<szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+		<szExploredName>Unknown</szExploredName>
+		<szDetailedExploredName>Unknown</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>N15</SectorGrid>
+		<szUnexploredName>Unknown</szUnexploredName>
+		<szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+		<szExploredName>Unknown</szExploredName>
+		<szDetailedExploredName>Unknown</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>N16</SectorGrid>
+		<szUnexploredName>Unknown</szUnexploredName>
+		<szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+		<szExploredName>Unknown</szExploredName>
+		<szDetailedExploredName>Unknown</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>O1</SectorGrid>
+		<szUnexploredName>Coastal Road</szUnexploredName>
+		<szDetailedUnexploredName>Impassable</szDetailedUnexploredName>
+		<szExploredName>Impassable</szExploredName>
+		<szDetailedExploredName>Impassable</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>O2</SectorGrid>
+		<szUnexploredName>Adrian</szUnexploredName>
+		<szDetailedUnexploredName>Adrian</szDetailedUnexploredName>
+		<szExploredName>Adrian</szExploredName>
+		<szDetailedExploredName>Adrian</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>200</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>O3</SectorGrid>
+		<szUnexploredName>Adrian</szUnexploredName>
+		<szDetailedUnexploredName>Adrian</szDetailedUnexploredName>
+		<szExploredName>Adrian</szExploredName>
+		<szDetailedExploredName>Adrian</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>200</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>O4</SectorGrid>
+		<szUnexploredName>Adrian</szUnexploredName>
+		<szDetailedUnexploredName>Adrian</szDetailedUnexploredName>
+		<szExploredName>Adrian</szExploredName>
+		<szDetailedExploredName>Adrian</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>200</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>O5</SectorGrid>
+		<szUnexploredName>Adrian</szUnexploredName>
+		<szDetailedUnexploredName>Adrian</szDetailedUnexploredName>
+		<szExploredName>Adrian</szExploredName>
+		<szDetailedExploredName>Adrian</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>200</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>O6</SectorGrid>
+		<szUnexploredName>Plains</szUnexploredName>
+		<szDetailedUnexploredName>Plains</szDetailedUnexploredName>
+		<szExploredName>Golf Course</szExploredName>
+		<szDetailedExploredName>Golf Course</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>350</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>O7</SectorGrid>
+		<szUnexploredName>Farm</szUnexploredName>
+		<szDetailedUnexploredName>Farm</szDetailedUnexploredName>
+		<szExploredName>Farm</szExploredName>
+		<szDetailedExploredName>Farm</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>375</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>O8</SectorGrid>
+		<szUnexploredName>Coastal</szUnexploredName>
+		<szDetailedUnexploredName>Coastal</szDetailedUnexploredName>
+		<szExploredName>Coastal</szExploredName>
+		<szDetailedExploredName>Coastal</szDetailedExploredName>
+		<sWaterType>2</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>O9</SectorGrid>
+		<szUnexploredName>Coastal</szUnexploredName>
+		<szDetailedUnexploredName>Coastal</szDetailedUnexploredName>
+		<szExploredName>Coastal</szExploredName>
+		<szDetailedExploredName>Coastal</szDetailedExploredName>
+		<sWaterType>2</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>O10</SectorGrid>
+		<szUnexploredName>Impassable</szUnexploredName>
+		<szDetailedUnexploredName>Impassable</szDetailedUnexploredName>
+		<szExploredName>Impassable</szExploredName>
+		<szDetailedExploredName>Impassable</szDetailedExploredName>
+		<sWaterType>2</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>O11</SectorGrid>
+		<szUnexploredName>Island</szUnexploredName>
+		<szDetailedUnexploredName>Island</szDetailedUnexploredName>
+		<szExploredName>Island</szExploredName>
+		<szDetailedExploredName>Island</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>O12</SectorGrid>
+		<szUnexploredName>Island</szUnexploredName>
+		<szDetailedUnexploredName>Island</szDetailedUnexploredName>
+		<szExploredName>Island</szExploredName>
+		<szDetailedExploredName>Island</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>O13</SectorGrid>
+		<szUnexploredName>Island</szUnexploredName>
+		<szDetailedUnexploredName>Island</szDetailedUnexploredName>
+		<szExploredName>Island</szExploredName>
+		<szDetailedExploredName>Island</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>O14</SectorGrid>
+		<szUnexploredName>Unknown</szUnexploredName>
+		<szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+		<szExploredName>Unknown</szExploredName>
+		<szDetailedExploredName>Unknown</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>O15</SectorGrid>
+		<szUnexploredName>Unknown</szUnexploredName>
+		<szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+		<szExploredName>Unknown</szExploredName>
+		<szDetailedExploredName>Unknown</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>O16</SectorGrid>
+		<szUnexploredName>Unknown</szUnexploredName>
+		<szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+		<szExploredName>Unknown</szExploredName>
+		<szDetailedExploredName>Unknown</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>P1</SectorGrid>
+		<szUnexploredName>Island</szUnexploredName>
+		<szDetailedUnexploredName>Island</szDetailedUnexploredName>
+		<szExploredName>Resort</szExploredName>
+		<szDetailedExploredName>Resort</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>P2</SectorGrid>
+		<szUnexploredName>Adrian</szUnexploredName>
+		<szDetailedUnexploredName>Adrian</szDetailedUnexploredName>
+		<szExploredName>Adrian</szExploredName>
+		<szDetailedExploredName>Adrian</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>200</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>P3</SectorGrid>
+		<szUnexploredName>Adrian</szUnexploredName>
+		<szDetailedUnexploredName>Adrian</szDetailedUnexploredName>
+		<szExploredName>Adrian</szExploredName>
+		<szDetailedExploredName>Adrian</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>200</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>P4</SectorGrid>
+		<szUnexploredName>Adrian</szUnexploredName>
+		<szDetailedUnexploredName>Adrian</szDetailedUnexploredName>
+		<szExploredName>Adrian</szExploredName>
+		<szDetailedExploredName>Adrian</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>200</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>P5</SectorGrid>
+		<szUnexploredName>Adrian</szUnexploredName>
+		<szDetailedUnexploredName>Adrian</szDetailedUnexploredName>
+		<szExploredName>Adrian</szExploredName>
+		<szDetailedExploredName>Adrian</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>200</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>P6</SectorGrid>
+		<szUnexploredName>Coastal</szUnexploredName>
+		<szDetailedUnexploredName>Coastal</szDetailedUnexploredName>
+		<szExploredName>Coastal</szExploredName>
+		<szDetailedExploredName>Coastal</szDetailedExploredName>
+		<sWaterType>2</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>P7</SectorGrid>
+		<szUnexploredName>Coastal</szUnexploredName>
+		<szDetailedUnexploredName>Coastal</szDetailedUnexploredName>
+		<szExploredName>Coastal</szExploredName>
+		<szDetailedExploredName>Coastal</szDetailedExploredName>
+		<sWaterType>2</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>P8</SectorGrid>
+		<szUnexploredName>Island</szUnexploredName>
+		<szDetailedUnexploredName>Island</szDetailedUnexploredName>
+		<szExploredName>Island</szExploredName>
+		<szDetailedExploredName>Island</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>P9</SectorGrid>
+		<szUnexploredName>Island</szUnexploredName>
+		<szDetailedUnexploredName>Island</szDetailedUnexploredName>
+		<szExploredName>Island</szExploredName>
+		<szDetailedExploredName>Island</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>P10</SectorGrid>
+		<szUnexploredName>Island</szUnexploredName>
+		<szDetailedUnexploredName>Island</szDetailedUnexploredName>
+		<szExploredName>Island</szExploredName>
+		<szDetailedExploredName>Island</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>P11</SectorGrid>
+		<szUnexploredName>Island</szUnexploredName>
+		<szDetailedUnexploredName>Island</szDetailedUnexploredName>
+		<szExploredName>Island</szExploredName>
+		<szDetailedExploredName>Island</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>P12</SectorGrid>
+		<szUnexploredName>Island</szUnexploredName>
+		<szDetailedUnexploredName>Island</szDetailedUnexploredName>
+		<szExploredName>Island</szExploredName>
+		<szDetailedExploredName>Island</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>P13</SectorGrid>
+		<szUnexploredName>Island</szUnexploredName>
+		<szDetailedUnexploredName>Island</szDetailedUnexploredName>
+		<szExploredName>Island</szExploredName>
+		<szDetailedExploredName>Island</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>250</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>P14</SectorGrid>
+		<szUnexploredName>Unknown</szUnexploredName>
+		<szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+		<szExploredName>Unknown</szExploredName>
+		<szDetailedExploredName>Unknown</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>P15</SectorGrid>
+		<szUnexploredName>Unknown</szUnexploredName>
+		<szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+		<szExploredName>Unknown</szExploredName>
+		<szDetailedExploredName>Unknown</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+	<SECTOR>
+		<SectorGrid>P16</SectorGrid>
+		<szUnexploredName>Unknown</szUnexploredName>
+		<szDetailedUnexploredName>Unknown</szDetailedUnexploredName>
+		<szExploredName>Unknown</szExploredName>
+		<szDetailedExploredName>Unknown</szDetailedExploredName>
+		<sWaterType>1</sWaterType>
+		<usNaturalDirt>300</usNaturalDirt>
+	</SECTOR>
+</SECTOR_NAMES>

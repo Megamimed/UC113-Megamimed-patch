@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<INVENTORYLIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<INVENTORY>
+		<uiIndex>0</uiIndex>
+		<sItemIndex>201</sItemIndex>		<!--	First Aid Kit	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>1</uiIndex>
+		<sItemIndex>203</sItemIndex>		<!--	Tool Kit	-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>2</uiIndex>
+		<sItemIndex>212</sItemIndex>		<!--	Sun Goggles	-->
+		<ubOptimalNumber>3</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>3</uiIndex>
+		<sItemIndex>306</sItemIndex>	<!--	Spring	-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>4</uiIndex>
+		<sItemIndex>314</sItemIndex>	<!--	Motor grease	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>5</uiIndex>
+		<sItemIndex>370</sItemIndex>	<!--	Duct Tape	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>6</uiIndex>
+		<sItemIndex>378</sItemIndex>	<!--	Copper Wire	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>7</uiIndex>
+		<sItemIndex>753</sItemIndex>	<!--	Copper Wire	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>8</uiIndex>
+		<sItemIndex>1632</sItemIndex>	<!--	Stack of Binders	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>9</uiIndex>
+		<sItemIndex>5201</sItemIndex>	<!--	Tool Vest	-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+</INVENTORYLIST>

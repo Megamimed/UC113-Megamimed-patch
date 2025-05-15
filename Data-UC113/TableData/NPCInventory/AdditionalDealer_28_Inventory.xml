@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<INVENTORYLIST>
+	<INVENTORY>
+		<uiIndex>0</uiIndex>
+		<sItemIndex>39</sItemIndex>		<!--	Box Cutter	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>1</uiIndex>
+		<sItemIndex>42</sItemIndex>		<!--	Shovel	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>2</uiIndex>
+		<sItemIndex>54</sItemIndex>		<!--	Machete	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>3</uiIndex>
+		<sItemIndex>64</sItemIndex>		<!--	Crowbar	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>4</uiIndex>
+		<sItemIndex>146</sItemIndex>		<!--	Chemical Break Light	-->
+		<ubOptimalNumber>10</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>5</uiIndex>
+		<sItemIndex>165</sItemIndex>		<!--	Leather Jacket	-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>6</uiIndex>
+		<sItemIndex>201</sItemIndex>		<!--	First Aid Kit	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>7</uiIndex>
+		<sItemIndex>203</sItemIndex>		<!--	Tool Kit	-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>8</uiIndex>
+		<sItemIndex>212</sItemIndex>		<!--	Sun Goggles	-->
+		<ubOptimalNumber>3</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>9</uiIndex>
+		<sItemIndex>214</sItemIndex>		<!--	Canteen	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>10</uiIndex>
+		<sItemIndex>220</sItemIndex>		<!--	Glass Jar	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>11</uiIndex>
+		<sItemIndex>245</sItemIndex>		<!--	Bottle of Alcohol	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>12</uiIndex>
+		<sItemIndex>265</sItemIndex>		<!--	Golf Bag	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>13</uiIndex>
+		<sItemIndex>266</sItemIndex>		<!--	Game Boy	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>14</uiIndex>
+		<sItemIndex>267</sItemIndex>		<!--	Coca-Cola	-->
+		<ubOptimalNumber>10</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>15</uiIndex>
+		<sItemIndex>269</sItemIndex>		<!--	Cigars	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>16</uiIndex>
+		<sItemIndex>303</sItemIndex>		<!--	A.L.I.C.E. Backpack	-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>17</uiIndex>
+		<sItemIndex>314</sItemIndex>		<!--	Motor grease	-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>18</uiIndex>
+		<sItemIndex>332</sItemIndex>		<!--	A.L.I.C.E. Field Pack	-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>19</uiIndex>
+		<sItemIndex>335</sItemIndex>		<!--	Attack of the Clydesdales	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>20</uiIndex>
+		<sItemIndex>336</sItemIndex>		<!--	Have Honda, Will Travel	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>21</uiIndex>
+		<sItemIndex>337</sItemIndex>		<!--	Wild, Wild East	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>22</uiIndex>
+		<sItemIndex>368</sItemIndex>		<!--	Portable TV	-->
+		<ubOptimalNumber>1</ubOptimalNumber>		
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>23</uiIndex>
+		<sItemIndex>370</sItemIndex>		<!--	Duct Tape	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>24</uiIndex>
+		<sItemIndex>372</sItemIndex>		<!--	Quick Glue	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>25</uiIndex>
+		<sItemIndex>373</sItemIndex>		<!--	String	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>26</uiIndex>
+		<sItemIndex>376</sItemIndex>		<!--	Marbles		-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>27</uiIndex>
+		<sItemIndex>382</sItemIndex>		<!--	Pack of Gum		-->
+		<ubOptimalNumber>10</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>28</uiIndex>
+		<sItemIndex>384</sItemIndex>		<!--	AA Batteries	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>29</uiIndex>
+		<sItemIndex>385</sItemIndex>		<!--	Rubber Band		-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>30</uiIndex>
+		<sItemIndex>387</sItemIndex>		<!--	Walkman		-->
+		<ubOptimalNumber>3</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>31</uiIndex>
+		<sItemIndex>431</sItemIndex>		<!--	Cigar Gift Set	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>32</uiIndex>
+		<sItemIndex>704</sItemIndex>		<!--	Longcoat	-->
+		<ubOptimalNumber>3</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>33</uiIndex>
+		<sItemIndex>741</sItemIndex>		<!--	ARUC Backpack	-->
+		<ubOptimalNumber>3</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>34</uiIndex>
+		<sItemIndex>742</sItemIndex>		<!--	Blackhawk Patrol Pack	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>35</uiIndex>
+		<sItemIndex>743</sItemIndex>		<!--	Go Bag	-->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>36</uiIndex>
+		<sItemIndex>744</sItemIndex>		<!--	MALICE3 Backpack	-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>37</uiIndex>
+		<sItemIndex>745</sItemIndex>		<!--	RD-54 VDV Rucksack	-->
+		<ubOptimalNumber>3</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>38</uiIndex>
+		<sItemIndex>748</sItemIndex>		<!--	Tactical Tailor 3-Day Pack	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>39</uiIndex>
+		<sItemIndex>749</sItemIndex>		<!--	TIMS Combat Pack	-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>40</uiIndex>
+		<sItemIndex>750</sItemIndex>		<!--	TIMS Backpack	-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>41</uiIndex>
+		<sItemIndex>751</sItemIndex>		<!--	Travel Carry All	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>42</uiIndex>
+		<sItemIndex>753</sItemIndex>		<!--	Utility Case	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>43</uiIndex>
+		<sItemIndex>772</sItemIndex>		<!--	Belt Pack	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>44</uiIndex>
+		<sItemIndex>778</sItemIndex>		<!--	D-Ring Carabiner	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>45</uiIndex>
+		<sItemIndex>854</sItemIndex>		<!--	Arulco T-Shirt	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>46</uiIndex>
+		<sItemIndex>855</sItemIndex>		<!--	Deidranna T-Shirt	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>47</uiIndex>
+		<sItemIndex>856</sItemIndex>		<!--	T-Shirt	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>48</uiIndex>
+		<sItemIndex>1307</sItemIndex>		<!--	Steak Knife		-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>49</uiIndex>
+		<sItemIndex>1308</sItemIndex>		<!--	Utility Knife	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>50</uiIndex>
+		<sItemIndex>1554</sItemIndex>		<!--	Spam in a can	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>51</uiIndex>
+		<sItemIndex>1555</sItemIndex>		<!--	Canned vegetables	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>52</uiIndex>
+		<sItemIndex>1556</sItemIndex>		<!--	Canned scorpions	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>53</uiIndex>
+		<sItemIndex>1557</sItemIndex>		<!--	Canned cat food	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>54</uiIndex>
+		<sItemIndex>1558</sItemIndex>		<!--	Canned baked beans	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>55</uiIndex>
+		<sItemIndex>1570</sItemIndex>		<!--	PET bottle	-->
+		<ubOptimalNumber>10</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>56</uiIndex>
+		<sItemIndex>1571</sItemIndex>		<!--	Vegetable juice	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>57</uiIndex>
+		<sItemIndex>1572</sItemIndex>		<!--	Milk	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>58</uiIndex>
+		<sItemIndex>1573</sItemIndex>		<!--	Energy drink	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>59</uiIndex>
+		<sItemIndex>1574</sItemIndex>		<!--	Energy drink 2	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>60</uiIndex>
+		<sItemIndex>1575</sItemIndex>		<!--	Coffee	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>61</uiIndex>
+		<sItemIndex>1582</sItemIndex>		<!--	Oatmeal		-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>62</uiIndex>
+		<sItemIndex>1583</sItemIndex>		<!--	Bag of rice		-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>63</uiIndex>
+		<sItemIndex>1606</sItemIndex>		<!--	Black Shirt	-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>64</uiIndex>
+		<sItemIndex>1607</sItemIndex>		<!--	Blue Shirt	-->
+		<ubOptimalNumber>3</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>65</uiIndex>
+		<sItemIndex>1608</sItemIndex>		<!--	Brown Shirt	-->
+		<ubOptimalNumber>3</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>66</uiIndex>
+		<sItemIndex>1609</sItemIndex>		<!--	Green Shirt	-->
+		<ubOptimalNumber>3</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>67</uiIndex>
+		<sItemIndex>1610</sItemIndex>		<!--	Grey Shirt	-->
+		<ubOptimalNumber>3</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>68</uiIndex>
+		<sItemIndex>1611</sItemIndex>		<!--	Yellow Shirt	-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>69</uiIndex>
+		<sItemIndex>1612</sItemIndex>		<!--	White Shirt	-->
+		<ubOptimalNumber>3</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>70</uiIndex>
+		<sItemIndex>1613</sItemIndex>		<!--	Purple Shirt	-->
+		<ubOptimalNumber>3</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>71</uiIndex>
+		<sItemIndex>1614</sItemIndex>		<!--	Red Shirt	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>72</uiIndex>
+		<sItemIndex>1615</sItemIndex>		<!--	Jean Shirt	-->
+		<ubOptimalNumber>3</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>73</uiIndex>
+		<sItemIndex>1616</sItemIndex>		<!--	Light Green Shirt	-->
+		<ubOptimalNumber>3</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>74</uiIndex>
+		<sItemIndex>1617</sItemIndex>		<!--	Beige Pants	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>75</uiIndex>
+		<sItemIndex>1618</sItemIndex>		<!--	Black Army Trousers		-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>76</uiIndex>
+		<sItemIndex>1619</sItemIndex>		<!--	Bluejeans	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>77</uiIndex>
+		<sItemIndex>1620</sItemIndex>		<!--	Army Trousers	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>78</uiIndex>
+		<sItemIndex>1621</sItemIndex>		<!--	Jean Pants	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>79</uiIndex>
+		<sItemIndex>1622</sItemIndex>		<!--	Tan Pants	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>80</uiIndex>
+		<sItemIndex>1632</sItemIndex>		<!--	Stack of Binders	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>81</uiIndex>
+		<sItemIndex>1636</sItemIndex>		<!--	Flashlight	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>82</uiIndex>
+		<sItemIndex>1638</sItemIndex>		<!--	Letter Opener	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>83</uiIndex>
+		<sItemIndex>1740</sItemIndex>		<!--	Soda	-->
+		<ubOptimalNumber>10</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>84</uiIndex>
+		<sItemIndex>2051</sItemIndex>		<!--	Cardboard Labels	-->
+		<ubOptimalNumber>10</ubOptimalNumber>
+	</INVENTORY>
+</INVENTORYLIST>

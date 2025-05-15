@@ -1,0 +1,515 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JA2Data>
+	<AttachmentPoint>
+		<id>0</id>
+		<name>None</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>1</id>
+		<name>Modular - LBE Pouches</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>2</id>
+		<name>Laser Sight</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>4</id>
+		<name>Optics - Pistol</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>8</id>
+		<name>Optics - Reflex</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>16</id>
+		<name>Optics - Lite Tac Rail</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>24</id>
+		<name>TacRail - Lite Optics</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>32</id>
+		<name>Optics - Full Tac Rail</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>56</id>
+		<name>Optics - All Tac Rail</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>60</id>
+		<name>Fits - All Optic Rails</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>64</id>
+		<name>Optics - AR-15</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>128</id>
+		<name>Optics - Scope Rings</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>256</id>
+		<name>Optics - PRC</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>272</id>
+		<name>Fits - Lite RIS &amp; PRC Optics</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>320</id>
+		<name>Fits - AR-15 &amp; PRC Optics</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>512</id>
+		<name>Tac Rail - Rifle/Pistol</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>1024</id>
+		<name>Tac Rail - Pistol </name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>1550</id>
+		<name>T - Full Pistol</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>2048</id>
+		<name>Tac Rail - Vertical, Short</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>2562</id>
+		<name>RIS Quad (Short)</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>3074</id>
+		<name>Pistol UBAR</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>4096</id>
+		<name>Tac Rail - Vertical, Full</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>4640</id>
+		<name>Fits - All Full RIS</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>6658</id>
+		<name>RIS Quad (Normal)</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>8192</id>
+		<name>Tac Rail - Lower, Heavy</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>14850</id>
+		<name>RIS Quad (Heavy)</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>14896</id>
+		<name>Fits - All RIS</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>16384</id>
+		<name>Muzzle - Flash</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>32768</id>
+		<name>Muzzle - Pistol</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>49152</id>
+		<name>S - Pistols</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>65536</id>
+		<name>Muzzle - Rifle Grenade</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>131072</id>
+		<name>Muzzle - KCB Bayonet</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>180224</id>
+		<name>S - Pistol/KCB</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>262144</id>
+		<name>Muzzle - Magnum</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>278528</id>
+		<name>S - Magnum</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>409600</id>
+		<name>S - Magnum/KCB</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>524288</id>
+		<name>Muzzle - Intermediate</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>540672</id>
+		<name>S - IC</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>606208</id>
+		<name>S - IC/RG</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>671744</id>
+		<name>S - IC/KCB</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>737280</id>
+		<name>S - IC/RG/KCB</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>1048576</id>
+		<name>Muzzle - Hi-Power</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>1064960</id>
+		<name>S - HV</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>1130496</id>
+		<name>S - HV/RG</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>1196032</id>
+		<name>S - HV/KCB</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>1261568</id>
+		<name>S - HV/RG/KCB</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>2097152</id>
+		<name>Muzzle - Intermediate, AK Suppressor</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>2113536</id>
+		<name>S - AK</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>2179072</id>
+		<name>S - AK/RG</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>4194304</id>
+		<name>Muzzle - Intermediate, AK Muzzle Brake</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>4734976</id>
+		<name>S - IC/AKMb</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>6307840</id>
+		<name>S - AK/MB</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>6373376</id>
+		<name>S - AK/RG/MB</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>8388608</id>
+		<name>Muzzle - Shotgun</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>12369920</id>
+		<name>Fits - All Muzzles</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>16777216</id>
+		<name>Trigger - Match Only</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>33554432</id>
+		<name>Trigger - Has 3 Round Burst / Autofire Only</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>67108864</id>
+		<name>Trigger - Add 3 Round Burst</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>100663296</id>
+		<name>Rod&amp;Spring</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>117440512</id>
+		<name>Fits - All Trigger Groups</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>134217728</id>
+		<name>Handguard - Foregrip Only</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>134217730</id>
+		<name>T - Basic MP/SMG</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>268435456</id>
+		<name>Handguard - Universal RIS</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>268435458</id>
+		<name>T - Basic Rifle</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>402653184</id>
+		<name>T - Basic Rifle w/Foregrip, no Laser</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>402653186</id>
+		<name>T - Basic Rifle w/Foregrip</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>536870912</id>
+		<name>Handguard - AR, Short</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>1073741824</id>
+		<name>Handguard - AR, Medium</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>1073745920</id>
+		<name>Fits - Full RIS/Med AR Handguard</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>1073750016</id>
+		<name>Fits - Heavy RIS/ Med AR Handguard</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>2147483648</id>
+		<name>Handguard - AR, Full</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>2147491840</id>
+		<name>Fits - Heavy RIS/Full AR Handguard</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>4294967296</id>
+		<name>Internal - AR-15</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>8589934592</id>
+		<name>Internal - AR-15 Upper Receiver</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>9261023234</id>
+		<name>TU - AR, Small</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>10334765058</id>
+		<name>TU - AR, Med</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>12482248706</id>
+		<name>TU - AR, Full</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>17179869184</id>
+		<name>Internal - AA Battery</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>34359738368</id>
+		<name>Internal - Storage</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>51539607552</id>
+		<name>Fits - Storage/AA Batteries</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>64424512002</id>
+		<name>T - AR/RIS Quad (Short)</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>64424516098</id>
+		<name>T - AR/RIS Quad (Normal)</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>64424524290</id>
+		<name>T - AR/RIS Quad (Heavy)</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>64961380354</id>
+		<name>T - AR, Pistol</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>65095598082</id>
+		<name>T - AR, Small</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>66169339906</id>
+		<name>T - AR, Med</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>68316823554</id>
+		<name>T - AR, Full</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>68719476736</id>
+		<name>Modular Stocks</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>137438953472</id>
+		<name>Handguard - AK</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>137438953474</id>
+		<name>T - AK</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>274877906944</id>
+		<name>Handguard - GP-30</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>274877906946</id>
+		<name>T - GP-30</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>412316860418</id>
+		<name>T - AK/GP-30</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>549755813888</id>
+		<name>Optics - RSA</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>1099511627776</id>
+		<name>Optics - SVD</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>1649267441664</id>
+		<name>Fits - SVD &amp; RSA Optics</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>2199023255552</id>
+		<name>Handguard/Optics - HK MP5</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>2199157473282</id>
+		<name>T - MP5</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>4398046511104</id>
+		<name>Handguard/Optics - HK G3</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>4398180728834</id>
+		<name>T - G3</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>8796093022208</id>
+		<name>Handguard/Optics - Sig SG55x</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>8796227239994</id>
+		<name>T - SIG</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>17592186044416</id>
+		<name>Handguard/Optics - FN FAL</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>17592320262146</id>
+		<name>T - FN</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>31202132099072</id>
+		<name>Bipod</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>31202132172800</id>
+		<name>Znich AK Tactical Light</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>35184372088832</id>
+		<name>Optics - HK</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>36283883716736</id>
+		<name>Sniper Gear</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>41781441855488</id>
+		<name>Fits - All HK G3/MP5 Weapons</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>70368744177664</id>
+		<name>Commando Vest LBE</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>140737488355328</id>
+		<name>Display BR/NAS - Quick Change LMG Barrel</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>281474976710656</id>
+		<name>Display BR/NAS - Modular Stock / Internal Launcher in Stock NAS Slot</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>562949953421312</id>
+		<name>Display BR/NAS - Extended Magazine</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>1125899906842624</id>
+		<name>Armour - Helmet</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>2251799813685248</id>
+		<name>Armour - Pants</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>4503599627370496</id>
+		<name>Armour - Vest</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>9007199254740992</id>
+		<name>Mag - .223Rem C-Mag</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>18014398509481984</id>
+		<name>Mag - 5.56/.300BLK C-Mag</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>36028797018963968</id>
+		<name>Mag - 6.8mm SPC C-Mag</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>72057594037927936</id>
+		<name>Mag - 7.62x39 mm Drum</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>144115188075855872</id>
+		<name>Mag - 7.62x51mm Drum</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>288230376151711744</id>
+		<name>Mag - 9mm C-Mag</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>576460752303423488</id>
+		<name>Integral - Optics</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>576460752303423490</id>
+		<name>Most Guns (Sling)</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>1152921504606846976</id>
+		<name>Integral - Muzzle</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>2305843009213693952</id>
+		<name>Integral - Bipod / Grip</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>4611686018427387904</id>
+		<name>Integral - Launchers</name>
+	</AttachmentPoint>
+	<AttachmentPoint>
+		<id>9223372036854775808</id>
+		<name>Detonators</name>
+	</AttachmentPoint>
+</JA2Data>

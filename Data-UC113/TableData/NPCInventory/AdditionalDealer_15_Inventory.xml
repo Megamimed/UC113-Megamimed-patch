@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<INVENTORYLIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<INVENTORY>
+		<uiIndex>0</uiIndex>
+		<sItemIndex>1629</sItemIndex>
+		<ubOptimalNumber>10</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>1</uiIndex>
+		<sItemIndex>1630</sItemIndex>
+		<ubOptimalNumber>10</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>2</uiIndex>
+		<sItemIndex>1631</sItemIndex>
+		<ubOptimalNumber>10</ubOptimalNumber>
+	</INVENTORY>
+</INVENTORYLIST>

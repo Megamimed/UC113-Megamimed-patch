@@ -1,0 +1,210 @@
+<!--
+
+This file defines army compositions in game.
+
+Fields index:
+	Index   		- it is simply composition index. Provide valid integer number.
+				  See reference on indexes in original game below.
+
+	Priority   		- it is importance of the composition to the Queen. Most important
+				  compositions are getting reinforcements first, than less important. 
+				  Nobody will get reinforcements, if Queen have no free troops.
+
+	ElitePercentage		- it is a chance to be elite for every soldier in squad, i.e. when
+				  game create a squad every soldier is rolled a chance to be elite.
+				  Provide integer from interval [0..100].
+
+	TroopPercentage		- it is like ElitePercentage, but for regular troops.
+
+	AdminPercentage		- and this is something different. This value is used to calculate
+				  number of admins in squad:
+				      NumAdmins = AdminPercentage * StartPopulation / 100
+
+	DesiredPopulation	- it is the number of soldiers the Queen want to have in this
+				  composition. Provide integer value.
+
+	StartPopulation		- it is the number of soldiers at the start of the new campagin.
+				  Provide integer value.
+
+Indexes reference in original JA2:
+
+Index	Short name				Desription
+0		QUEEN_DEFENCE			The most important sector, the queen's palace.
+1		Adrian_DEFENCE			The town surrounding the queen's palace.
+2		Adrian_SAMSITE			A sam site within Adrian(higher priority)
+3		LEVEL1_DEFENCE			The sectors immediately adjacent to Meduna (defence and spawning area)
+4		LEVEL2_DEFENCE			Two sectors away from Adrian(defence and spawning area)
+5		LEVEL3_DEFENCE			Three sectors away from Adrian(defence and spawning area)
+6		Gunrunner_Contact			
+7		City				
+8		Suburb				
+9		Factory
+10		Atremo_WELCOME_WAGON		Small force that greets the player upon arrival in game.
+11		SAM Site			
+12		Roadblock
+13		North_Patrols
+14		South_Patrols
+15		Component			
+
+
+Army composition soldier count calculation:
+
+1)  game calculate number of admins (NumAdmins = AdminPercentage * StartPopulation / 100)
+2)  for the rest soldiers game makes a loop:
+2a) soldier check to be elite
+2b) soldier check to be regular troop
+2c) if both checks failed, none soldier is added
+3)  step 2 is executed until there are unchecked soldiers left
+
+
+NOTE: Maximum 60 army compositions can be used in game.
+
+Changes require starting of a new game.
+
+-->
+<COMPOSITION_INFO>
+   <COMPOSITION>
+      <Index>0</Index>
+      <Priority>100</Priority>
+      <ElitePercentage>100</ElitePercentage>
+      <TroopPercentage>0</TroopPercentage>
+      <AdminPercentage>0</AdminPercentage>
+      <DesiredPopulation>25</DesiredPopulation>
+      <StartPopulation>20</StartPopulation>
+   </COMPOSITION>
+   <COMPOSITION>
+      <Index>1</Index>
+      <Priority>95</Priority>
+      <ElitePercentage>55</ElitePercentage>
+      <TroopPercentage>45</TroopPercentage>
+      <AdminPercentage>0</AdminPercentage>
+      <DesiredPopulation>20</DesiredPopulation>
+      <StartPopulation>17</StartPopulation>
+   </COMPOSITION>
+   <COMPOSITION>
+      <Index>2</Index>
+      <Priority>96</Priority>
+      <ElitePercentage>80</ElitePercentage>
+      <TroopPercentage>20</TroopPercentage>
+      <AdminPercentage>0</AdminPercentage>
+      <DesiredPopulation>20</DesiredPopulation>
+      <StartPopulation>18</StartPopulation>
+   </COMPOSITION>
+   <COMPOSITION>
+      <Index>3</Index>
+      <Priority>40</Priority>
+      <ElitePercentage>20</ElitePercentage>
+      <TroopPercentage>80</TroopPercentage>
+      <AdminPercentage>0</AdminPercentage>
+      <DesiredPopulation>20</DesiredPopulation>
+      <StartPopulation>15</StartPopulation>
+   </COMPOSITION>
+   <COMPOSITION>
+      <Index>4</Index>
+      <Priority>30</Priority>
+      <ElitePercentage>10</ElitePercentage>
+      <TroopPercentage>90</TroopPercentage>
+      <AdminPercentage>0</AdminPercentage>
+      <DesiredPopulation>18</DesiredPopulation>
+      <StartPopulation>15</StartPopulation>
+   </COMPOSITION>
+   <COMPOSITION>
+      <Index>5</Index>
+      <Priority>20</Priority>
+      <ElitePercentage>5</ElitePercentage>
+      <TroopPercentage>95</TroopPercentage>
+      <AdminPercentage>0</AdminPercentage>
+      <DesiredPopulation>17</DesiredPopulation>
+      <StartPopulation>15</StartPopulation>
+   </COMPOSITION>
+   <COMPOSITION>
+      <Index>6</Index>
+      <Priority>60</Priority>
+      <ElitePercentage>25</ElitePercentage>
+      <TroopPercentage>75</TroopPercentage>
+      <AdminPercentage>60</AdminPercentage>
+      <DesiredPopulation>14</DesiredPopulation>
+      <StartPopulation>12</StartPopulation>
+   </COMPOSITION>
+   <COMPOSITION>
+      <Index>7</Index>
+      <Priority>50</Priority>
+      <ElitePercentage>0</ElitePercentage>
+      <TroopPercentage>100</TroopPercentage>
+      <AdminPercentage>0</AdminPercentage>
+      <DesiredPopulation>12</DesiredPopulation>
+      <StartPopulation>8</StartPopulation>
+   </COMPOSITION>
+   <COMPOSITION>
+      <Index>8</Index>
+      <Priority>15</Priority>
+      <ElitePercentage>0</ElitePercentage>
+      <TroopPercentage>100</TroopPercentage>
+      <AdminPercentage>25</AdminPercentage>
+      <DesiredPopulation>12</DesiredPopulation>
+      <StartPopulation>10</StartPopulation>
+   </COMPOSITION>
+   <COMPOSITION>
+      <Index>9</Index>
+      <Priority>85</Priority>
+      <ElitePercentage>25</ElitePercentage>
+      <TroopPercentage>75</TroopPercentage>
+      <AdminPercentage>25</AdminPercentage>
+      <DesiredPopulation>20</DesiredPopulation>
+      <StartPopulation>18</StartPopulation>
+   </COMPOSITION>
+   <COMPOSITION>
+      <Index>10</Index>
+      <Priority>0</Priority>
+      <ElitePercentage>0</ElitePercentage>
+      <TroopPercentage>100</TroopPercentage>
+      <AdminPercentage>0</AdminPercentage>
+      <DesiredPopulation>12</DesiredPopulation>
+      <StartPopulation>8</StartPopulation>
+   </COMPOSITION>
+   <COMPOSITION>
+      <Index>11</Index>
+      <Priority>98</Priority>
+      <ElitePercentage>33</ElitePercentage>
+      <TroopPercentage>100</TroopPercentage>
+      <AdminPercentage>0</AdminPercentage>
+      <DesiredPopulation>20</DesiredPopulation>
+      <StartPopulation>15</StartPopulation>
+   </COMPOSITION>
+   <COMPOSITION>
+      <Index>12</Index>
+      <Priority>80</Priority>
+      <ElitePercentage>10</ElitePercentage>
+      <TroopPercentage>90</TroopPercentage>
+      <AdminPercentage>15</AdminPercentage>
+      <DesiredPopulation>15</DesiredPopulation>
+      <StartPopulation>10</StartPopulation>
+   </COMPOSITION>
+   <COMPOSITION>
+      <Index>13</Index>
+      <Priority>60</Priority>
+      <ElitePercentage>10</ElitePercentage>
+      <TroopPercentage>90</TroopPercentage>
+      <AdminPercentage>0</AdminPercentage>
+      <DesiredPopulation>15</DesiredPopulation>
+      <StartPopulation>10</StartPopulation>
+   </COMPOSITION>
+   <COMPOSITION>
+      <Index>14</Index>
+      <Priority>74</Priority>
+      <ElitePercentage>40</ElitePercentage>
+      <TroopPercentage>60</TroopPercentage>
+      <AdminPercentage>0</AdminPercentage>
+      <DesiredPopulation>20</DesiredPopulation>
+      <StartPopulation>15</StartPopulation>
+   </COMPOSITION>
+      <COMPOSITION>
+   <Index>15</Index>
+      <Priority>5</Priority>
+      <ElitePercentage>0</ElitePercentage>
+      <TroopPercentage>100</TroopPercentage>
+      <AdminPercentage>0</AdminPercentage>
+      <DesiredPopulation>3</DesiredPopulation>
+      <StartPopulation>2</StartPopulation>
+   </COMPOSITION>
+</COMPOSITION_INFO>

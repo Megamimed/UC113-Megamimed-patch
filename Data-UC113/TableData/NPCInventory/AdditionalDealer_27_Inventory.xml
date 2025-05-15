@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<INVENTORYLIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<INVENTORY>
+		<uiIndex>0</uiIndex>
+		<sItemIndex>267</sItemIndex>		<!--	Coca-Cola	-->
+		<ubOptimalNumber>10</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>1</uiIndex>
+		<sItemIndex>382</sItemIndex>		<!--	Pack of Gum		-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>2</uiIndex>
+		<sItemIndex>1549</sItemIndex>		<!--	Hotdog	-->
+		<ubOptimalNumber>10</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>3</uiIndex>
+		<sItemIndex>1550</sItemIndex>		<!--	Hamburger		-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>4</uiIndex>
+		<sItemIndex>1551</sItemIndex>		<!--	French Fries		-->
+		<ubOptimalNumber>15</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>5</uiIndex>
+		<sItemIndex>1552</sItemIndex>		<!--	Pizza		-->
+		<ubOptimalNumber>15</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>6</uiIndex>
+		<sItemIndex>1570</sItemIndex>		<!--	PET bottle	-->
+		<ubOptimalNumber>10</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>7</uiIndex>
+		<sItemIndex>1571</sItemIndex>		<!--	Vegetable juice		-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>8</uiIndex>
+		<sItemIndex>1572</sItemIndex>		<!--	Milk		-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>9</uiIndex>
+		<sItemIndex>1573</sItemIndex>		<!--	Energy drink	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>10</uiIndex>
+		<sItemIndex>1740</sItemIndex>		<!--	Soda	-->
+		<ubOptimalNumber>10</ubOptimalNumber>
+	</INVENTORY>
+</INVENTORYLIST>

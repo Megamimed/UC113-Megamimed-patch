@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<INVENTORYLIST>
+	<INVENTORY>
+		<uiIndex>0</uiIndex>
+		<sItemIndex>162</sItemIndex>		<!--	Danubian Army Longcoat	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>1</uiIndex>
+		<sItemIndex>165</sItemIndex>		<!--	Leather Jacket	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>2</uiIndex>
+		<sItemIndex>177</sItemIndex>		<!--	Nomex Wool Cap	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>3</uiIndex>
+		<sItemIndex>188</sItemIndex>		<!--	Biker Leather Jacket	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>4</uiIndex>
+		<sItemIndex>193</sItemIndex>		<!--	Leather & Kevlar Jacket	-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>5</uiIndex>
+		<sItemIndex>303</sItemIndex>		<!--	A.L.I.C.E. Backpack	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>6</uiIndex>
+		<sItemIndex>332</sItemIndex>		<!--	A.L.I.C.E. Field Pack	-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>7</uiIndex>
+		<sItemIndex>701</sItemIndex>		<!--	BDU		-->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>8</uiIndex>
+		<sItemIndex>702</sItemIndex>		<!--	Leather Jacket	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>9</uiIndex>
+		<sItemIndex>703</sItemIndex>		<!--	Leather Concealed Carry Jacket	-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>10</uiIndex>
+		<sItemIndex>704</sItemIndex>		<!--	Longcoat	-->
+		<ubOptimalNumber>4</ubOptimalNumber>		
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>11</uiIndex>
+		<sItemIndex>707</sItemIndex>		<!--	Police Under Cover Jacket	-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>12</uiIndex>
+		<sItemIndex>708</sItemIndex>		<!--	Uniform	-->
+		<ubOptimalNumber>3</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>13</uiIndex>
+		<sItemIndex>716</sItemIndex>		<!--	Hunter Vest	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>14</uiIndex>
+		<sItemIndex>741</sItemIndex>		<!--	ARUC Backpack	-->
+		<ubOptimalNumber>3</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>15</uiIndex>
+		<sItemIndex>742</sItemIndex>		<!--	Blackhawk Patrol Pack	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>16</uiIndex>
+		<sItemIndex>743</sItemIndex>		<!--	Go Bag	-->
+		<ubOptimalNumber>4</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>17</uiIndex>
+		<sItemIndex>744</sItemIndex>		<!--	MALICE3 Backpack	-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>18</uiIndex>
+		<sItemIndex>745</sItemIndex>		<!--	RD-54 VDV Rucksack	-->
+		<ubOptimalNumber>3</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>19</uiIndex>
+		<sItemIndex>748</sItemIndex>		<!--	Tactical Tailor 3-Day Pack	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>20</uiIndex>
+		<sItemIndex>749</sItemIndex>		<!--	TIMS Combat Pack	-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>21</uiIndex>
+		<sItemIndex>750</sItemIndex>		<!--	TIMS Backpack	-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>22</uiIndex>
+		<sItemIndex>751</sItemIndex>		<!--	Travel Carry All	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>23</uiIndex>
+		<sItemIndex>772</sItemIndex>		<!--	Belt Pack	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>24</uiIndex>
+		<sItemIndex>820</sItemIndex>		<!--	Boonie Hat	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>25</uiIndex>
+		<sItemIndex>821</sItemIndex>		<!--	Special Forces Beret	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>26</uiIndex>
+		<sItemIndex>822</sItemIndex>		<!--	Officer's Visor Cap	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>27</uiIndex>
+		<sItemIndex>823</sItemIndex>		<!--	Red Army Fur Cap	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>28</uiIndex>
+		<sItemIndex>824</sItemIndex>		<!--	Police Visor Cap	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>29</uiIndex>
+		<sItemIndex>854</sItemIndex>		<!--	Arulco T-Shirt	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>30</uiIndex>
+		<sItemIndex>855</sItemIndex>		<!--	Deidranna T-Shirt	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>31</uiIndex>
+		<sItemIndex>856</sItemIndex>		<!--	T-Shirt	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>32</uiIndex>
+		<sItemIndex>878</sItemIndex>		<!--	Leg Protectors		-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>33</uiIndex>
+		<sItemIndex>1401</sItemIndex>		<!--	Rank Stripes - Private	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>34</uiIndex>
+		<sItemIndex>1402</sItemIndex>		<!--	Rank Stripes - Corporal	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>35</uiIndex>
+		<sItemIndex>1403</sItemIndex>		<!--	Rank Stripes - Junior Sergeant	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>36</uiIndex>
+		<sItemIndex>1404</sItemIndex>		<!--	Rank Stripes - Sergeant	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>37</uiIndex>
+		<sItemIndex>1405</sItemIndex>		<!--	Rank Stripes - Senior Sergeant	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>38</uiIndex>
+		<sItemIndex>1406</sItemIndex>		<!--	Rank Stripes - Master Sergeant	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>39</uiIndex>
+		<sItemIndex>1407</sItemIndex>		<!--	Rank Stripes - Kursant	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>40</uiIndex>
+		<sItemIndex>1408</sItemIndex>		<!--	Rank Stripes - Kursant Corporal	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>41</uiIndex>
+		<sItemIndex>1409</sItemIndex>		<!--	Rank Stripes - Kursant Junior Sergeant	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>42</uiIndex>
+		<sItemIndex>1410</sItemIndex>		<!--	Rank Stripes - Kursant Sergeant	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>43</uiIndex>
+		<sItemIndex>1411</sItemIndex>		<!--	Rank Stripes - Kursant Senior Sergeant	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>44</uiIndex>
+		<sItemIndex>1412</sItemIndex>		<!--	Rank Stripes - Kursant Master Sergeant	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>45</uiIndex>
+		<sItemIndex>1413</sItemIndex>		<!--	Rank Stripes - Junior Lieutenant		-->
+		<ubOptimalNumber>3</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>46</uiIndex>
+		<sItemIndex>1414</sItemIndex>		<!--	Rank Stripes - Lieutenant		-->
+		<ubOptimalNumber>3</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>47</uiIndex>
+		<sItemIndex>1415</sItemIndex>		<!--	Rank Stripes - Senior Lieutenant		-->
+		<ubOptimalNumber>3</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>48</uiIndex>
+		<sItemIndex>1416</sItemIndex>		<!--	Rank Stripes - Captain		-->
+		<ubOptimalNumber>3</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>49</uiIndex>
+		<sItemIndex>1577</sItemIndex>		<!--	Civilian Clothes	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>50</uiIndex>
+		<sItemIndex>1606</sItemIndex>		<!--	Black Shirt	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>51</uiIndex>
+		<sItemIndex>1607</sItemIndex>		<!--	Blue Shirt	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>52</uiIndex>
+		<sItemIndex>1608</sItemIndex>		<!--	Brown Shirt	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>53</uiIndex>
+		<sItemIndex>1609</sItemIndex>		<!--	Green Shirt	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>54</uiIndex>
+		<sItemIndex>1610</sItemIndex>		<!--	Grey Shirt	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>55</uiIndex>
+		<sItemIndex>1611</sItemIndex>		<!--	Yellow Shirt	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>56</uiIndex>
+		<sItemIndex>1612</sItemIndex>		<!--	White Shirt	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>57</uiIndex>
+		<sItemIndex>1613</sItemIndex>		<!--	Purple Shirt	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>58</uiIndex>
+		<sItemIndex>1614</sItemIndex>		<!--	Red Shirt	-->
+		<ubOptimalNumber>3</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>59</uiIndex>
+		<sItemIndex>1615</sItemIndex>		<!--	Jean Shirt	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>60</uiIndex>
+		<sItemIndex>1616</sItemIndex>		<!--	Light Green Shirt	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>61</uiIndex>
+		<sItemIndex>1617</sItemIndex>		<!--	Beige Pants	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>62</uiIndex>
+		<sItemIndex>1618</sItemIndex>		<!--	Black Army Trousers		-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>63</uiIndex>
+		<sItemIndex>1619</sItemIndex>		<!--	Bluejeans	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>64</uiIndex>
+		<sItemIndex>1620</sItemIndex>		<!--	Army Trousers	-->
+		<ubOptimalNumber>3</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>65</uiIndex>
+		<sItemIndex>1621</sItemIndex>		<!--	Jean Pants	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>66</uiIndex>
+		<sItemIndex>1622</sItemIndex>		<!--	Tan Pants	-->
+		<ubOptimalNumber>5</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>67</uiIndex>
+		<sItemIndex>1692</sItemIndex>		<!--	Sporting Clay Vest	-->
+		<ubOptimalNumber>2</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>68</uiIndex>
+		<sItemIndex>1705</sItemIndex>		<!--	ILBE Gen II Main Ruck	-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>69</uiIndex>
+		<sItemIndex>1706</sItemIndex>		<!--	ILBE Gen II Assault	-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>70</uiIndex>
+		<sItemIndex>1707</sItemIndex>		<!--	TT Extended Range	-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>71</uiIndex>
+		<sItemIndex>1708</sItemIndex>		<!--	TT Modular Pack	-->
+		<ubOptimalNumber>1</ubOptimalNumber>
+	</INVENTORY>
+	<INVENTORY>
+		<uiIndex>72</uiIndex>
+		<sItemIndex>5203</sItemIndex>		<!--	Safari Jacket	-->
+		<ubOptimalNumber>3</ubOptimalNumber>
+	</INVENTORY>
+</INVENTORYLIST>

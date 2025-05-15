@@ -1,0 +1,43 @@
+<!-- This is just an empty template for the addition extra sector items -->
+<!-- See "Docs\Extra Sector Items.txt" for additional informations      -->
+<!--
+<ExtraItems>
+   <Item>
+      <uiIndex>201</uiIndex>
+      <quantity>1</quantity>
+      <condition>80</condition>
+      <gridno>6479</gridno>
+      <visible>1</visible>
+   </Item>
+   <Item>
+      <uiIndex>15</uiIndex>
+      <quantity>1</quantity>
+      <condition>80</condition>
+      <gridno>6479</gridno>
+      <visible>1</visible>
+   </Item>
+</ExtraItems>
+-->
+<ExtraItems>
+   <Item>
+      <uiIndex>4769</uiIndex>		<!-- OTs-39 (>) -->
+      <quantity>1</quantity>
+      <condition>98</condition>
+      <gridno>9652</gridno>
+      <visible>1</visible>
+   </Item>
+   <Item>
+      <uiIndex>6470</uiIndex>		<!-- 7.62x25 SMG Mag, HP -->
+      <quantity>2</quantity>
+      <condition>100</condition>
+      <gridno>9652</gridno>
+      <visible>1</visible>
+   </Item>
+   <Item>
+      <uiIndex>1576</uiIndex>		<!-- Cleaning Kit -->
+      <quantity>1</quantity>
+      <condition>100</condition>
+      <gridno>9652</gridno>
+      <visible>1</visible>
+   </Item>
+</ExtraItems>

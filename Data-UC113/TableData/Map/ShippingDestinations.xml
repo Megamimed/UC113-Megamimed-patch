@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DESTINATIONLIST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<DESTINATION>
+		<uiIndex>0</uiIndex>
+		<name>Adrian (Airport)</name>
+		<ubMapX>3</ubMapX>
+		<ubMapY>14</ubMapY>
+		<ubMapZ>0</ubMapZ>
+		<sGridNo>10959</sGridNo>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>1</uiIndex>
+		<name>Atremo (Airport)</name>
+		<ubMapX>9</ubMapX>
+		<ubMapY>1</ubMapY>
+		<ubMapZ>0</ubMapZ>
+		<sGridNo>10764</sGridNo>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>2</uiIndex>
+		<name>Austin</name>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>3</uiIndex>
+		<name>Baghdad</name>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>4</uiIndex>
+		<name>Calisto (Airport)</name>
+		<ubMapX>13</ubMapX>
+		<ubMapY>2</ubMapY>
+		<ubMapZ>0</ubMapZ>
+		<sGridNo>10112</sGridNo>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>5</uiIndex>
+		<name>Drake (UBT)</name>
+		<ubMapX>3</ubMapX>
+		<ubMapY>9</ubMapY>
+		<ubMapZ>1</ubMapZ>
+		<sGridNo>18331</sGridNo>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>6</uiIndex>
+		<name>Galileo (UBT)</name>
+		<ubMapX>8</ubMapX>
+		<ubMapY>8</ubMapY>
+		<ubMapZ>1</ubMapZ>
+		<sGridNo>17662</sGridNo>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>7</uiIndex>
+		<name>Gotham (Airstrip)</name>
+		<ubMapX>6</ubMapX>
+		<ubMapY>9</ubMapY>
+		<ubMapZ>0</ubMapZ>
+		<sGridNo>14995</sGridNo>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>8</uiIndex>
+		<name>Hong Kong</name>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>9</uiIndex>
+		<name>Island (Airstrip)</name>
+		<ubMapX>11</ubMapX>
+		<ubMapY>15</ubMapY>
+		<ubMapZ>0</ubMapZ>
+		<sGridNo>15256</sGridNo>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>10</uiIndex>
+		<name>London</name>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>11</uiIndex>
+		<name>Los Angeles</name>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>12</uiIndex>
+		<name>Metavira</name>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>13</uiIndex>
+		<name>Miami</name>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>14</uiIndex>
+		<name>Moscow</name>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>15</uiIndex>
+		<name>New York</name>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>16</uiIndex>
+		<name>Ottawa</name>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>17</uiIndex>
+		<name>Paris</name>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>18</uiIndex>
+		<name>Port Kip (UBT)</name>
+		<ubMapX>6</ubMapX>
+		<ubMapY>4</ubMapY>
+		<ubMapZ>1</ubMapZ>
+		<sGridNo>17662</sGridNo>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>19</uiIndex>
+		<name>Prax (UBT)</name>
+		<ubMapX>9</ubMapX>
+		<ubMapY>10</ubMapY>
+		<ubMapZ>1</ubMapZ>
+		<sGridNo>6470</sGridNo>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>20</uiIndex>
+		<name>Roxx (UBT)</name>
+		<ubMapX>4</ubMapX>
+		<ubMapY>11</ubMapY>
+		<ubMapZ>1</ubMapZ>
+		<sGridNo>17021</sGridNo>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>21</uiIndex>
+		<name>Rudesa (Airstrip)</name>
+		<ubMapX>14</ubMapX>
+		<ubMapY>12</ubMapY>
+		<ubMapZ>0</ubMapZ>
+		<sGridNo>9720</sGridNo>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>22</uiIndex>
+		<name>Rudesa (Seaport)</name>
+		<ubMapX>11</ubMapX>
+		<ubMapY>13</ubMapY>
+		<ubMapZ>0</ubMapZ>
+		<sGridNo>13066</sGridNo>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>23</uiIndex>
+		<name>Sheraton (UBT)</name>
+		<ubMapX>2</ubMapX>
+		<ubMapY>2</ubMapY>
+		<ubMapZ>1</ubMapZ>
+		<sGridNo>13965</sGridNo>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>24</uiIndex>
+		<name>Tokyo</name>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>25</uiIndex>
+		<name>Tripoli</name>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>26</uiIndex>
+		<name>Troy (UBT)</name>
+		<ubMapX>14</ubMapX>
+		<ubMapY>9</ubMapY>
+		<ubMapZ>1</ubMapZ>
+		<sGridNo>17662</sGridNo>
+	</DESTINATION>
+	<DESTINATION>
+		<uiIndex>27</uiIndex>
+		<name>Vancouver</name>
+	</DESTINATION>
+</DESTINATIONLIST>

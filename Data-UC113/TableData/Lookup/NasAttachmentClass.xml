@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JA2Data>
+	<NasAttachmentClass>
+		<id>0</id>
+		<name>None</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>1</id>
+		<name>Default</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>2</id>
+		<name>Stock 1</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>4</id>
+		<name>Stock 2</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>8</id>
+		<name>Optics - Misc Systems</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>16</id>
+		<name>Optics - RIS</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>32</id>
+		<name>Optics - Scope Rings</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>40</id>
+		<name>Default Scopes - Misc/Rings&amp;Accessories</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>64</id>
+		<name>Optics - Reflex Sight</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>120</id>
+		<name>Unique - L85A2 Optics</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>128</id>
+		<name>Optics - Dependent</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>256</id>
+		<name>Muzzle</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>512</id>
+		<name>Laser</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>1024</id>
+		<name>Launchable - Grenade</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>2048</id>
+		<name>Launchable - Rocket</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>4096</id>
+		<name>Underslung Only</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>8192</id>
+		<name>Internal</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>16384</id>
+		<name>Magazine</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>32768</id>
+		<name>Optics - Lite/Holo</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>32856</id>
+		<name>Rail - RIS Optics, Pistol</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>65536</id>
+		<name>Handguard</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>69632</id>
+		<name>Basic Underslung</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>131072</id>
+		<name>RIS - Vertical Pair</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>262144</id>
+		<name>RIS - Any (LAM)</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>524288</id>
+		<name>RIS - Underside/Side (Grip)</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>724992</id>
+		<name>Default Underslung - Bipod, Foregrip, Launchers</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>1048576</id>
+		<name>Integral Bipod</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>2097152</id>
+		<name>Integral Grip</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>3145728</id>
+		<name>Integral Bipod or Grip Default Attachment</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>4194304</id>
+		<name>Rifle Grenade</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>4194560</id>
+		<name>Muzzle - All Normal</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>8388608</id>
+		<name>Special Instruction</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>16777216</id>
+		<name>M-LBE Small</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>33554432</id>
+		<name>M-LBE Medium</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>50331648</id>
+		<name>M-LBE Small &amp; Medium</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>67108864</id>
+		<name>Trigger</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>134217728</id>
+		<name>Integral LAM</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>134218240</id>
+		<name>Default Lasers - All</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>268435456</id>
+		<name>Bayonet</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>536870912</id>
+		<name>LAM-200/LTL</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>536871424</id>
+		<name>Add-on Pistol Under Barrel (2013/06/01)</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>536936960</id>
+		<name>Pistol Under Barrel (2013/06/01)</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>537001984</id>
+		<name>Unique - SAR-21A: Top/Fwd Tac Rail</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>537133568</id>
+		<name>Scope Add-on Rail 3: LAM &amp; Lights</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>537165904</id>
+		<name>Rail - RIS Optics, Addon</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>537264640</id>
+		<name>Rail - Top</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>537297472</id>
+		<name>Rail - RIS Optics, AK Handguard</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>537530368</id>
+		<name>Unique - SAR-21A: Underbarrel Tac Rail</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>537657856</id>
+		<name>Rail - Side</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>537793024</id>
+		<name>Rail - Underside</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>537858560</id>
+		<name>Rail - Underside (Fixed 2013/06/10)</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>1073741824</id>
+		<name>Optics - RIS, BUIS</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>1610907728</id>
+		<name>Rail - Optics, Full</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>2147483648</id>
+		<name>Underslung Launcher &amp; Shotguns</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>2415919104</id>
+		<name>Common Add-on Weapon - Bayonet, Launchers, Shotguns</name>
+	</NasAttachmentClass>
+	<NasAttachmentClass>
+		<id>4294967296</id>
+		<name>Hidden</name>
+	</NasAttachmentClass>
+</JA2Data>
