@@ -10,7 +10,9 @@ LOBOTs is disabled by default I think to remember to activate it in the option m
 Installation
 --------------------------------------------------------------------------
 Like 1.13, requires a legal Copy of JA2.
+
 The 1.13 mod itself, found Here https://github.com/1dot13/source/releases/tag/latest
+
 You will also need a copy of the Data file from the orginal Urban Chaos 
 
 Once you have those installed, unzip my version of UC113 into your Jagged Alliance 2 Folder
