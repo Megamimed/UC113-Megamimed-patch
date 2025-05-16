@@ -7,6 +7,9 @@ Hopefully this way if something breaks you have at least some idea where to look
 
 I have not included profile data so you'll need to adjust your options when you start up, LOBOTs is disabled by default I think to remember to activate it in the option menu.
 
+16/05/2025 - Comparing Items.xml is a pain so I made a spreadsheet for quick reference, maybe you'll find it useful too?:
+https://docs.google.com/spreadsheets/d/1HaDqsCChxyx3-SG-a0ctlk-gfch0lyJ3gxsw9ZgSV1I/edit?usp=sharing
+
 Versions and stuff - Going by the ZIP file names in my downloads folder:
 --------------------------------------------------------------------------
 
