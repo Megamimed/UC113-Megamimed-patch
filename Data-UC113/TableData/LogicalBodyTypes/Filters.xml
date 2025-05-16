@@ -10,7 +10,7 @@
 		<!-- <AND> -->
 		<OR>
 			<WEAPON_TYPE>GUN_PISTOL</WEAPON_TYPE>
-			<HANDPOS op="in">711, 732</HANDPOS><!-- Sawn-off shotgun and Super-Shorty -->
+			<HANDPOS op="in">1, 5016</HANDPOS><!-- Sawn-off shotgun and Super-Shorty -->
 		</OR>
 			<!--<LEFT_WEAPON_TYPE>NOT_GUN</LEFT_WEAPON_TYPE>-->
 		<!-- </AND> -->
@@ -32,13 +32,13 @@
 		<AND>
 			<LEFT_WEAPON_TYPE not="">GUN_PISTOL</LEFT_WEAPON_TYPE>
 			<LEFT_WEAPON_TYPE not="">GUN_M_PISTOL</LEFT_WEAPON_TYPE>
-			<SECONDHANDPOS not="" op="in">711, 732</SECONDHANDPOS>
+			<SECONDHANDPOS not="" op="in">1, 5016</SECONDHANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasPistolInLeftHand">
 		<OR>
 			<LEFT_WEAPON_TYPE>GUN_PISTOL</LEFT_WEAPON_TYPE>
-			<SECONDHANDPOS op="in">711, 732</SECONDHANDPOS>
+			<SECONDHANDPOS op="in">1, 5016</SECONDHANDPOS>
 		</OR>
 	</Filter>
 	<Filter name="HasMPistolInLeftHand">
@@ -81,7 +81,7 @@
 	</Filter>
 	<Filter name="HasBluntMeleeWeaponInHand">
 		<AND>
-			<HANDPOS op="in">297, 1015, 1054, 1202</HANDPOS>
+			<HANDPOS op="in">1015, 1353, 1356</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="CamoPants">
@@ -91,7 +91,7 @@
 	</Filter>
 	<Filter name="CamoLongsleeves">
 		<OR>
-			<VESTPOS op="in">166, 195, 284, 842, 843, 844, 847, 848, 849, 850, 851</VESTPOS>
+			<VESTPOS op="in">166, 195, 284, 842, 843</VESTPOS>
 			<VESTPOCKPOS op="in">166, 195, 284, 701</VESTPOCKPOS>
 		</OR>
 	</Filter>
@@ -117,17 +117,17 @@
 	</Filter>
 	<Filter name="GhilliePants">
 		<OR>
-			<LEGPOS op="in">808</LEGPOS>
+			<LEGPOS op="in">171</LEGPOS>
 		</OR>
 	</Filter>
 	<Filter name="GhillieVest">
 		<OR>
-			<VESTPOS op="in">809</VESTPOS>
+			<VESTPOS op="in">197</VESTPOS>
 		</OR>
 	</Filter>
 	<Filter name="GhillieHood">
 		<OR>
-			<HELMETPOS op="in">807</HELMETPOS>
+			<HELMETPOS op="in">179</HELMETPOS>
 		</OR>
 	</Filter>
 	<Filter name="GhillieHoodAndPistolLeft">
@@ -348,8 +348,8 @@
 	</Filter>
 	<Filter name="Longsleeves">
 		<OR>
-			<VESTPOS op="in">283, 295, 806, 818, 821, 830, 833, 840, 856, 857, 858, 859, 860, 865, 866, 867, 868, 869</VESTPOS>
-			<VESTPOCKPOS op="in">169, 188, 189, 190, 191, 192, 702, 703, 704, 705, 706, 707, 708, 5203</VESTPOCKPOS>
+			<VESTPOS op="in">198, 833, 884</VESTPOS>
+			<VESTPOCKPOS op="in"> 188, 702, 703, 704, 707, 708</VESTPOCKPOS>
 		</OR>
 	</Filter>
 	<Filter name="LongsleevesAndPistolLeft">
@@ -378,7 +378,7 @@
 	</Filter>
 	<Filter name="OfficerCoat">
 		<OR>
-			<VESTPOCKPOS op="in">162, 194, 704, 705</VESTPOCKPOS>
+			<VESTPOCKPOS op="in">194, 704, 705</VESTPOCKPOS>
 		</OR>
 	</Filter>
 	<Filter name="OfficerCoatAndPistolLeft">
@@ -407,7 +407,7 @@
 	</Filter>
 	<Filter name="DressUniformVest">
 		<OR>
-			<VESTPOS op="in">286</VESTPOS>
+			<VESTPOS op="in">195</VESTPOS>
 		</OR>
 	</Filter>
 	<Filter name="DressUniformVestAndPistolLeft">
@@ -523,7 +523,7 @@
 	</Filter>
 	<Filter name="TwaronLeggings">
 		<AND>
-			<LEGPOS op="in">861, 862, 863</LEGPOS>
+			<LEGPOS op="in">861, 863</LEGPOS>
 		</AND>
 	</Filter>
 	<Filter name="TwaronLeggingsAndPistolLeft">
@@ -610,7 +610,7 @@
 	</Filter>
 	<Filter name="ZylonPants">
 		<AND>
-			<LEGPOS op="in">282</LEGPOS>
+			<LEGPOS op="in">175</LEGPOS>
 		</AND>
 	</Filter>
 	<Filter name="ZylonPantsAndPistolLeft">
@@ -639,7 +639,7 @@
 	</Filter>
 	<Filter name="Helmet">
 		<OR>
-			<HELMETPOS op="in">168, 176, 178, 180, 182, 293, 302, 822, 825, 828, 831, 834, 839, 1100, 1135</HELMETPOS>
+			<HELMETPOS op="in">168, 176, 178, 180, 182, 802, 807, 808, 809, 812, 815, 825, 882</HELMETPOS>
 		</OR>
 	</Filter>
 	<Filter name="HelmetAndPistolLeft">
@@ -904,7 +904,7 @@
 	</Filter>
 	<Filter name="Holster">
 		<AND>
-			<RTHIGHPOCKPOS op="in">731, 732, 733, 735, 1641, 1665, 1677</RTHIGHPOCKPOS>
+			<RTHIGHPOCKPOS op="in">731, 733, 735, 1091, 1641, 1665, 1677</RTHIGHPOCKPOS>
 		</AND>
 	</Filter>
 	<Filter name="HolsterAndPistolLeft">
@@ -933,7 +933,7 @@
 	</Filter>
 	<Filter name="LeftHolster">
 		<AND>
-			<LTHIGHPOCKPOS op="in">731, 732, 733, 735, 1641, 1665, 1677</LTHIGHPOCKPOS>
+			<LTHIGHPOCKPOS op="in">731, 733, 735, 1091, 1641, 1665, 1677</LTHIGHPOCKPOS>
 		</AND>
 	</Filter>
 	<Filter name="LeftHolsterAndPistolLeft">
@@ -987,64 +987,65 @@
 		<AND>
 			<HANDPOS op="in">754</HANDPOS>
 		</AND>
-	</Filter>	<Filter name="HasIthacaInHand">
+	</Filter>
+	<Filter name="HasIthacaInHand">
 		<AND>
-			<HANDPOS op="in">679</HANDPOS>
+			<HANDPOS op="in">4627</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasMP133InHand">
 		<AND>
-			<HANDPOS op="in">694</HANDPOS>
+			<HANDPOS op="in">4174</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasFP6InHand">
 		<AND>
-			<HANDPOS op="in">898</HANDPOS>
+			<HANDPOS op="in">4349</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasSDASSInHand">
 		<AND>
-			<HANDPOS op="in">899</HANDPOS>
+			<HANDPOS op="in">4350</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasNeosteadInHand">
 		<AND>
-			<HANDPOS op="in">696</HANDPOS>
+			<HANDPOS op="in">5037</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasConvertibleInHand">
 		<AND>
-			<HANDPOS op="in">341</HANDPOS>
+			<HANDPOS op="in">4187</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasSuper90InHand">
 		<AND>
-			<HANDPOS op="in">621</HANDPOS>
+			<HANDPOS op="in">4188</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasStreetSweeperInHand">
 		<AND>
-			<HANDPOS op="in">731</HANDPOS>
+			<HANDPOS op="in">5014</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasSPAS15InHand">
 		<AND>
-			<HANDPOS op="in">32</HANDPOS>
+			<HANDPOS op="in">4962</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasUSAS12DrumInHand">
 		<AND>
-			<HANDPOS op="in">741</HANDPOS>
+			<HANDPOS op="in">5054</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasCAWSInHand">
 		<AND>
-			<HANDPOS op="in">33</HANDPOS>
+			<HANDPOS op="in">4561</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasPancorInHand">
 		<AND>
-			<HANDPOS op="in">680</HANDPOS>
+			<HANDPOS op="in">4638</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasMasterkeyInHand">
@@ -1069,12 +1070,12 @@
 	</Filter>
 	<Filter name="HasAKMSInHand">
 		<AND>
-			<HANDPOS op="in">612, 613</HANDPOS>
+			<HANDPOS op="in">4042, 4047</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasAKMSUInHand">
 		<AND>
-			<HANDPOS op="in">785</HANDPOS>
+			<HANDPOS op="in">4051</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasAK74InHand">
@@ -2513,12 +2514,12 @@
 	</Filter>
 	<Filter name="HasShortyInHand">
 		<AND>
-			<HANDPOS op="in">732</HANDPOS>
+			<HANDPOS op="in">5016</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasShortyInLeftHand">
 		<AND>
-			<SECONDHANDPOS op="in">732</SECONDHANDPOS>
+			<SECONDHANDPOS op="in">5016</SECONDHANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasDualRightShorty">
@@ -3505,7 +3506,7 @@
 	</Filter>
 	<Filter name="ChestRig">
 		<OR>
-			<VESTPOS op="in">840</VESTPOS>
+			<VESTPOS op="in">169</VESTPOS>
 		</OR>
 	</Filter>
 	<Filter name="ChestRigAndPistolLeft">
@@ -3534,7 +3535,7 @@
 	</Filter>
 	<Filter name="KevlarVest">
 		<OR>
-			<VESTPOS op="in">164, 165, 166, 829, 842, 843, 844, 847, 848, 849, 856, 857, 858, 865, 866, 867, 1103, 1104, 1105, 1108, 1109, 1110, 1117, 1118, 1119, 1126, 1127, 1128, 1138, 1139, 1140, 1143, 1144, 1145, 1152, 1153, 1154, 1161, 1162, 1163</VESTPOS>
+			<VESTPOS op="in">164, 829, 830, 831</VESTPOS>
 		</OR>
 	</Filter>
 	<Filter name="KevlarVestAndPistolLeft">
@@ -3563,7 +3564,7 @@
 	</Filter>
 	<Filter name="SpectraVest">
 		<OR>
-			<VESTPOS op="in">167, 168, 169, 818, 830, 838, 850, 851, 859, 860, 868, 869, 1111, 1112, 1120, 1121, 1129, 1130, 1146, 1147, 1155, 1156, 1164, 1165</VESTPOS>
+			<VESTPOS op="in">838, 839, 840</VESTPOS>
 		</OR>
 	</Filter>
 	<Filter name="SpectraVestAndPistolLeft">
@@ -3592,7 +3593,7 @@
 	</Filter>
 	<Filter name="FlakVest">
 		<OR>
-			<VESTPOS op="in">161, 162, 163, 862</VESTPOS>
+			<VESTPOS op="in">161, 826, 828 </VESTPOS>
 		</OR>
 	</Filter>
 	<Filter name="FlakVestAndPistolLeft">
@@ -3621,7 +3622,7 @@
 	</Filter>
 	<Filter name="GuardianVest">
 		<OR>
-			<VESTPOS op="in">196, 197, 198, 844</VESTPOS>
+			<VESTPOS op="in">196, 844</VESTPOS>
 		</OR>
 	</Filter>
 	<Filter name="GuardianVestAndPistolLeft">
@@ -3650,7 +3651,7 @@
 	</Filter>
 	<Filter name="SWATVest">
 		<OR>
-			<VESTPOS op="in">295, 821, 833</VESTPOS>
+			<VESTPOS op="in">833</VESTPOS>
 		</OR>
 	</Filter>
 	<Filter name="SWATVestAndPistolLeft">
@@ -3679,7 +3680,7 @@
 	</Filter>
 	<Filter name="ZylonVest">
 		<OR>
-			<VESTPOS op="in">283</VESTPOS>
+			<VESTPOS op="in">833</VESTPOS>
 		</OR>
 	</Filter>
 	<Filter name="ZylonVestAndPistolLeft">
@@ -3708,7 +3709,7 @@
 	</Filter>
 	<Filter name="TwaronVest">
 		<OR>
-			<VESTPOS op="in">812, 824, 832, 836</VESTPOS>
+			<VESTPOS op="in">832, 833, 834</VESTPOS>
 		</OR>
 	</Filter>
 	<Filter name="TwaronVestAndPistolLeft">
@@ -3737,7 +3738,7 @@
 	</Filter>
 	<Filter name="DyneemaVest">
 		<OR>
-			<VESTPOS op="in">803, 815, 827, 841</VESTPOS>
+			<VESTPOS op="in">841, 842, 843</VESTPOS>
 		</OR>
 	</Filter>
 	<Filter name="DyneemaVestAndPistolLeft">
@@ -3766,17 +3767,17 @@
 	</Filter>
 		<Filter name="EODvest">
 		<OR>
-			<VESTPOS op="in">806, 818, 830</VESTPOS>
+			<VESTPOS op="in">198</VESTPOS>
 		</OR>
 	</Filter>
 	<Filter name="EODpants">
 		<AND>
-			<LEGPOS op="in">805, 817, 829</LEGPOS>
+			<LEGPOS op="in">172</LEGPOS>
 		</AND>
 	</Filter>
 	<Filter name="EODhelmet">
 		<OR>
-			<HELMETPOS op="in">804, 816, 828</HELMETPOS>
+			<HELMETPOS op="in">818</HELMETPOS>
 		</OR>
 	</Filter>
 	<Filter name="EODvestAndPistolLeft">
@@ -3896,8 +3897,8 @@
 	</Filter>
 	<Filter name="NVG">
 		<OR>
-			<HEAD1POS op="in">211, 246, 1024, 1025</HEAD1POS>
-			<HEAD2POS op="in">211, 246, 1024, 1025</HEAD2POS>
+			<HEAD1POS op="in">211, 246, 901, 903</HEAD1POS>
+			<HEAD2POS op="in">211, 246, 901, 903</HEAD2POS>
 		</OR>
 	</Filter>
 	<Filter name="NVGAndPistolLeft">
@@ -3991,7 +3992,7 @@
 	</Filter>
 	<Filter name="HasCombatKnifeInHand">
 		<AND>
-			<HANDPOS op="in">37, 1353</HANDPOS>
+			<HANDPOS op="in">37, 1309</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasMacheteInHand">
@@ -4006,32 +4007,32 @@
 	</Filter>
 	<Filter name="HasCavalrySabreInHand">
 		<AND>
-			<HANDPOS op="in">599</HANDPOS>
+			<HANDPOS op="in">1305</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasRamboKnifeInHand">
 		<AND>
-			<HANDPOS op="in">600</HANDPOS>
+			<HANDPOS op="in">1304</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasKaBarCutlassInHand">
 		<AND>
-			<HANDPOS op="in">593</HANDPOS>
+			<HANDPOS op="in">1301</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasKCBKnifeInHand">
 		<AND>
-			<HANDPOS op="in">594</HANDPOS>
+			<HANDPOS op="in">1032</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasExactoKnifeInHand">
 		<AND>
-			<HANDPOS op="in">299, 301</HANDPOS>
+			<HANDPOS op="in">39, 1308</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasUmbrellaInHand">
 		<AND>
-			<HANDPOS op="in">1361</HANDPOS>
+			<HANDPOS op="in">1310</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasCrowbarInHand">
@@ -4041,17 +4042,17 @@
 	</Filter>
 	<Filter name="HasBatonInHand">
 		<AND>
-			<HANDPOS op="in">297, 1054</HANDPOS>
+			<HANDPOS op="in">1353</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasShovelInHand">
 		<AND>
-			<HANDPOS op="in">1015</HANDPOS>
+			<HANDPOS op="in">42</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasPipeWrenchInHand">
 		<AND>
-			<HANDPOS op="in">1202</HANDPOS>
+			<HANDPOS op="in">1353</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasKnuckleDusterInHand">
@@ -4061,7 +4062,7 @@
 	</Filter>
 	<Filter name="HasNightstickInHand">
 		<AND>
-			<HANDPOS op="in">298</HANDPOS>
+			<HANDPOS op="in">1353</HANDPOS>
 		</AND>
 	</Filter>
 	<Filter name="HasStunGunInHand">
