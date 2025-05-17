@@ -7,6 +7,9 @@ I didn't do this with the expectation of sharing it so there may be things lefto
 Hopefully this way if something breaks you have at least some idea where to look!
 LOBOTs is disabled by default I think to remember to activate it in the option menu.
 
+I've also have a version of Arulco Folding Stock that can be found here https://github.com/Megamimed/Arulco-Folding-Stock-MM and is compatable with the latest (16/05/2025) experimental. Not tested it as much though.
+
+
 Installation
 --------------------------------------------------------------------------
 Like 1.13, requires a legal Copy of JA2.
@@ -79,5 +82,3 @@ Please also note, I may have also changed the CTHConstants to suit my preference
 I think that's everything. If you notice something egregious that I've missed please let me know on the Bearpit Discord, Username is Megamimed
 
 If you make any changes to fix this in the future I strongly suggest you add your own timestamped notes to this changelog so that future generations don't have to put up with the headache I had to endure, also so that I don't get blamed if YOUR update breaks something.
-
-Also let me know if this works with Arulco Folding Stock, got a bit bored of vanilla arulco myself so haven't tried it.
