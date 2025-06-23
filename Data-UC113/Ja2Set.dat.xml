@@ -1027,7 +1027,7 @@
 				<file index="61">jailflor.sti</file>
 				<file index="62">hosfloor.sti</file>
 				<file index="63">p-floor3.sti</file>
-				<file index="64">flat_r1c.sti</file>
+<!--				<file index="64">flat_r1c.sti</file> --><!-- This file doesn't exist. Also this entry is deleted from UC1.13 v4.60  -->
 				<file index="65">tradroof.sti</file>
 				<file index="66">p-roof1.sti</file>
 				<file index="67">w-roof1.sti</file>
